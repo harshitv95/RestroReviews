@@ -1,0 +1,561 @@
+[{
+        "title": "McDonald's® (167 MAIN ST)",
+        "feedback": { "rating": 4.3, "ratingCount": "200+" },
+        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/af86e437-e88b-4072-9e6d-d267c57ae3dd.jpeg",
+        "categories": ["$", "American", "Burgers", "Fast Food", "Fast Food"],
+        "uuid": "a6de9cc8-4af1-4489-b1a4-ea5084be902e"
+    },
+    {
+        "title": "Popeyes (164 Main St)",
+        "feedback": { "rating": 4.3, "ratingCount": "200+" },
+        "heroImageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/cf8221d88410ef468cda79302f17d2b4",
+        "categories": ["$", "American", "Fast Food", "Comfort Food"],
+        "uuid": "897b5f5d-3d7e-4ddd-83d3-c586a6b7c65f"
+    },
+    {
+        "title": "Five Guys NY-0376 4700 Vestal Pkwy E",
+        "feedback": { "rating": 4.7, "ratingCount": "200+" },
+        "heroImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/bulk_actions_image_0d0e0a15-9ce7-4b87-abd2-c2d0453ec4ba-w550-94.jpg",
+        "categories": ["$", "American", "Burgers"],
+        "uuid": "fcfeac9c-824e-47fa-a298-08a4dd00cd24"
+    },
+    {
+        "title": "TGI Friday's (586 - VESTAL, NY)",
+        "feedback": { "rating": 4.4, "ratingCount": "200+" },
+        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/e8055cc4-f74b-4715-8bcc-2fbc80bdc745",
+        "categories": ["$$", "Burgers", "Bar Food", "American"],
+        "uuid": "fa814f20-c632-40ea-b90a-ee90e06fd7ea"
+    },
+    {
+        "title": "Kennedy Fried Chicken (159 Main St)",
+        "feedback": { "rating": 4.5, "ratingCount": "200+" },
+        "heroImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1542055805644-w550-54.jpg",
+        "categories": [
+            "$",
+            "Chicken",
+            "Halal",
+            "Wings",
+            "American",
+            "Comfort Food"
+        ],
+        "uuid": "fe8c1ee2-e665-42a0-bab9-e893b66dbd29"
+    },
+    {
+        "title": "Sonic (1103 Upper Front St)",
+        "feedback": { "rating": 4.5, "ratingCount": "191" },
+        "heroImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1534967364296-w550-a2.jpg",
+        "categories": [
+            "$$",
+            "American",
+            "Burgers",
+            "Breakfast and Brunch",
+            "Fast Food"
+        ],
+        "uuid": "23a1aeea-e610-4e37-a311-2d681d1761ce"
+    },
+    {
+        "title": "New Century",
+        "feedback": { "rating": 4.4, "ratingCount": "54" },
+        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/2d42e227-81b1-41e4-b421-10818e28b6d7.jpeg",
+        "categories": ["$", "Chinese", "Asian", "Asian Fusion"],
+        "uuid": "9129dbbf-430e-4e40-8b24-1d545363537f"
+    },
+    {
+        "title": "Applebee's  (3701 Vestal Parkway East)",
+        "feedback": { "rating": 4.2, "ratingCount": "37" },
+        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/4886d538-4788-487a-8f37-7f254c4a9543",
+        "categories": [
+            "$$",
+            "American",
+            "Bar Food",
+            "BBQ",
+            "burger",
+            "Chicken Strips",
+            "Comfort Food",
+            "Dinner",
+            "pasta",
+            "salad",
+            "Sandwiches",
+            "Soup",
+            "Steak",
+            "Traditional American",
+            "wings"
+        ],
+        "uuid": "498cac79-45f8-475e-8815-0dd1fc10831e"
+    },
+    {
+        "title": "Cold Stone Creamery (4700 Vestal Pkwy E )",
+        "feedback": { "rating": 4.7, "ratingCount": "102" },
+        "heroImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1542642792073-w550-f7.jpg",
+        "categories": ["$", "Desserts", "Allergy Friendly"],
+        "uuid": "a10e1cdd-ea12-43be-8946-3f1ededc8aaf"
+    },
+    {
+        "title": "Red Robin (2545 Vestal Parkway East)",
+        "feedback": { "rating": 4.4, "ratingCount": "178" },
+        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/ccee5c3a-4abe-4db1-a08a-a5fa36f91a9b",
+        "categories": ["$", "American", "burger"],
+        "uuid": "cecd2ab0-0fc7-4cd7-b456-e198eb89c648"
+    },
+    {
+        "title": "Petersons Tavern",
+        "feedback": { "rating": 4.4, "ratingCount": "37" },
+        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/39093ac6-104f-47ba-89fb-1fe028993887",
+        "categories": ["$$", "American"],
+        "uuid": "8fe2cf26-0c11-4a22-b284-43fa57306162"
+    },
+    {
+        "title": "MOGHUL INDIAN RESTAURANT & BAR INC",
+        "feedback": { "rating": 4.6, "ratingCount": "20" },
+        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/6db961e1-ec0f-4d44-abe1-169005009764.jpeg",
+        "categories": ["$", "Indian", "Chicken", "Salads"],
+        "uuid": "9c58569d-1e89-4a16-a4dd-d9f7111c23aa"
+    },
+    {
+        "title": "Dos Rios Cantina",
+        "feedback": { "rating": 4.7, "ratingCount": "50" },
+        "heroImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1544714859827-w550-cc.jpg",
+        "categories": ["$$", "Latin American", "Mexican"],
+        "uuid": "9388b882-7a42-4983-b50d-745a10012734"
+    },
+    {
+        "title": "Good Taste Chinese Restaurant",
+        "feedback": { "rating": 4.6, "ratingCount": "156" },
+        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/cfc50eea-2e7d-4e53-8642-a7dd12e52fde",
+        "categories": ["$", "Chinese", "Asian", "Asian Fusion"],
+        "uuid": "36904b71-1d58-4024-a9db-cfbb4e876d44"
+    },
+    {
+        "title": "Maryam’s Mart Halal Foods & Gyro",
+        "feedback": { "rating": 4.7, "ratingCount": "104" },
+        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/70e37f04-2d42-41fb-8530-08dd2f2e48e5",
+        "categories": ["$", "Halal", "Chicken", "Middle Eastern"],
+        "uuid": "b014dfba-ef40-46a1-a447-dd9392b429d7"
+    },
+    {
+        "title": "Pizza Hut (218 Reynolds Rd)",
+        "feedback": { "rating": 4.9, "ratingCount": "21" },
+        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/fa0cf2cc-bf57-4392-96ef-1f6cd980bc3f.jpeg",
+        "categories": ["$", "Fast Food", "Italian", "pizza", "wings"],
+        "uuid": "060cd857-56f6-4eee-a497-89195d13bea8"
+    },
+    {
+        "title": "Alaska quick Mart inc",
+        "feedback": null,
+        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/81051eb5-6d07-4bfc-a6c8-50d9b38185a7",
+        "categories": ["$", "Comfort Food", "American", "Burgers"],
+        "uuid": "905b5e62-ee40-4bcd-ac98-15c8ff3b8784"
+    },
+    {
+        "title": "Halal Bites",
+        "feedback": { "rating": 4.7, "ratingCount": "176" },
+        "heroImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1541533619153-w550-0e.jpg",
+        "categories": ["$", "Halal"],
+        "uuid": "21122568-0dd4-43ec-9d3e-38d8d2f65e77"
+    },
+    {
+        "title": "royal indian bar & grill",
+        "feedback": { "rating": 4.6, "ratingCount": "40" },
+        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/c86c039d-e605-4cec-b74e-cd88b38bddc4.jpeg",
+        "categories": ["$", "Indian", "Vegetarian", "Asian"],
+        "uuid": "536a5d37-496d-4053-8749-3a0efe4ebd34"
+    },
+    {
+        "title": "Subway (1175 Vestal Ave)",
+        "feedback": { "rating": 4.7, "ratingCount": "27" },
+        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/df6a215f-526a-4a5a-8b1f-e145fc87c94e.jpeg",
+        "categories": ["$", "Fast Food", "Sandwiches", "American"],
+        "uuid": "b672b074-56b9-4b0f-8276-fdb3f7a23f3b"
+    },
+    {
+        "title": "Ary's Kitchen",
+        "feedback": null,
+        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/1a6d754f-6fd5-44a4-b27f-d5edb97edc4f.jpeg",
+        "categories": ["$", "Halal", "Chicken", "Middle Eastern"],
+        "uuid": "0f5e074b-47ee-4606-8680-858dc2d6a65d"
+    },
+    {
+        "title": "K & K's The Old Teahouse",
+        "feedback": { "rating": 4.7, "ratingCount": "52" },
+        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/fd45701e-da6b-4378-8286-e4a173f84b01",
+        "categories": ["$", "Bubble Tea"],
+        "uuid": "d0d5a129-ec3c-4376-b1d4-4893e56afbdc"
+    },
+    {
+        "title": "Red Lobster (1200 E. Vestal Parkway)",
+        "feedback": { "rating": 4.3, "ratingCount": "56" },
+        "heroImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1539624666536-w550-e4.jpg",
+        "categories": ["$$", "Seafood", "American"],
+        "uuid": "e66c5989-06a9-4c35-ad87-b604d1ec917a"
+    },
+    {
+        "title": "Taj Restaurant",
+        "feedback": null,
+        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/d9ac7821-e095-4370-87ad-585efd4cab15",
+        "categories": ["$", "Indian", "Indian Curry", "Mediterranean"],
+        "uuid": "7bd212c5-4d3d-467c-af2a-376ccc430851"
+    },
+    {
+        "title": "Bella's Deli, Subs, & Pizza",
+        "feedback": { "rating": 4.5, "ratingCount": "64" },
+        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/b90c799d-9444-4551-aab2-362385436c3b",
+        "categories": ["$$", "Burgers", "American", "Sandwiches"],
+        "uuid": "f50bca2a-1f15-4fd1-813a-8d58c4e2c5cd"
+    },
+    {
+        "title": "Auntie Anne's (601-635 Harry L. Dr, Ste #17)",
+        "feedback": null,
+        "heroImageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/a075b9df123dd43a1ad543204d9f7a94",
+        "categories": ["$", "Bakery", "Comfort Food", "Desserts", "Pretzel"],
+        "uuid": "3ad162ab-19da-4239-b0f0-a69fc0cced1f"
+    },
+    {
+        "title": "The Spot Restaurant",
+        "feedback": { "rating": 4.3, "ratingCount": "42" },
+        "heroImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1541694565488-w550-1d.jpg",
+        "categories": [
+            "$$",
+            "Breakfast and Brunch",
+            "Greek",
+            "Diner",
+            "Italian",
+            "Desserts"
+        ],
+        "uuid": "82f8b502-db48-438a-b1fc-807c6fa0aef2"
+    },
+    {
+        "title": "Crown Fried Chicken of Endicott",
+        "feedback": { "rating": 4, "ratingCount": "12" },
+        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/5322c448-6b02-4eac-af0f-dd1234543804",
+        "categories": ["$", "Halal", "Chicken", "Middle Eastern"],
+        "uuid": "43f52b11-7599-4a98-bd60-2adca7c0923d"
+    },
+    {
+        "title": "Subway (232 Conklin Ave)",
+        "feedback": null,
+        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/85d9e351-5df1-4c9f-99a3-701f5f50187a.jpeg",
+        "categories": ["$", "Fast Food", "Sandwiches", "American"],
+        "uuid": "88e45783-829d-4498-a767-5db2e759a580"
+    },
+    {
+        "title": "Hot Pot  Restaurant",
+        "feedback": null,
+        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/5bdc9120-ef14-488d-a8f4-ae27a82a752b.jpeg",
+        "categories": ["$", "Chinese", "Asian", "Chicken"],
+        "uuid": "8fc7badc-30f5-48da-a4de-3e60c3eb161c"
+    },
+    {
+        "title": "Oakdale Pizza(Mall)",
+        "feedback": null,
+        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/e86d883e-7b78-409c-a8a7-18b638e35c23.jpeg",
+        "categories": ["$", "Burgers", "American", "Sandwiches"],
+        "uuid": "c7f94d39-00b3-47fb-97c0-a022bfc11541"
+    },
+    {
+        "title": "Quick Stop Deli & Halal Food",
+        "feedback": null,
+        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/21d1f1b6-d824-4bdc-90fc-19b32f63534d",
+        "categories": ["$", "Deli", "Halal", "Middle Eastern", "Sandwiches"],
+        "uuid": "0b98e3d4-25a4-487f-ba45-9fc108b7ff33"
+    },
+    {
+        "title": "Full Belly Deli",
+        "feedback": null,
+        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/22815b57-73fd-4b71-80e7-c348f3904e9b",
+        "categories": ["$$", "Sandwiches", "Deli"],
+        "uuid": "586f1bdb-878d-4e18-bcd3-c6fbe47e12cd"
+    },
+    {
+        "title": "Parlor City Pizza",
+        "feedback": null,
+        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/3abbd5cf-b27b-446e-8f67-8f94f3c032b1",
+        "categories": ["$$$", "Pizza", "American", "New American"],
+        "uuid": "a3458801-0980-4b97-9165-1cf557663108"
+    },
+    {
+        "title": "Friendly's (1148 Upper Front St)",
+        "feedback": null,
+        "heroImageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/b61557fd6a2dd0f80da2c05e7d364da8",
+        "categories": [
+            "$",
+            "American",
+            "Breakfast and Brunch",
+            "Ice Cream and Frozen Yogurt",
+            "Sandwiches"
+        ],
+        "uuid": "d847a91e-0dd5-4558-ab20-369190d70a95"
+    },
+    {
+        "title": "Blaze Pizza (3714 Vestal Pkwy E,)",
+        "feedback": null,
+        "heroImageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/b712cc4e5e3f2907efef6e16dd12cfb5",
+        "categories": ["$", "Pizza"],
+        "uuid": "44bc0f55-8021-4756-ada1-74dd78f8513d"
+    },
+    {
+        "title": "Old World Delicatessen",
+        "feedback": null,
+        "heroImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/da8838f2c75c88a84ca44c441a87b206-w550-a8.jpg",
+        "categories": ["$$", "Sandwiches"],
+        "uuid": "85715ed6-85e4-4f59-8893-fd58d7da12e0"
+    },
+    {
+        "title": "Subway (2 Gannett Dr)",
+        "feedback": null,
+        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/cff85824-f0af-43a2-acd9-3f334652012b.jpeg",
+        "categories": ["$", "Fast Food", "Sandwiches", "American"],
+        "uuid": "0d3f14bc-484f-482f-ae97-ecf253fb797b"
+    },
+    {
+        "title": "IHOP (3720 Vestal Parkway East)",
+        "feedback": { "rating": 4.6, "ratingCount": "30" },
+        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/b5030d1d-27e3-4b3e-95e7-98653470bc4d.jpeg",
+        "categories": [
+            "$",
+            "American",
+            "Breakfast and Brunch",
+            "burger",
+            "Comfort Food",
+            "Dinner",
+            "Omelette",
+            "salad",
+            "Traditional American"
+        ],
+        "uuid": "d8022b56-ab31-4f23-8221-ee6e36fe99df"
+    },
+    {
+        "title": "Despina's Mediterranean Taste",
+        "feedback": { "rating": 5, "ratingCount": "11" },
+        "heroImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1540859346684-w550-c3.jpg",
+        "categories": [
+            "$",
+            "Mediterranean",
+            "Greek",
+            "Sandwiches",
+            "Salads",
+            "Vegetarian Friendly",
+            "Vegan Friendly"
+        ],
+        "uuid": "a71f915f-ac19-49d9-86d6-1f03a7789717"
+    },
+    {
+        "title": "Subway (47 Riverside Dr)",
+        "feedback": null,
+        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/249084e6-60ae-43c0-aa57-6ff553911fe6.jpeg",
+        "categories": ["$", "Fast Food", "Sandwiches", "American"],
+        "uuid": "9280df2b-8a23-4cc3-81db-45633432a799"
+    },
+    {
+        "title": "1st Thai Basil",
+        "feedback": { "rating": 4.4, "ratingCount": "14" },
+        "heroImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1542140263809-w550-89.jpg",
+        "categories": ["$", "Thai", "South Asian"],
+        "uuid": "f0d4ef57-a697-40da-ba63-b2278df20478"
+    },
+    {
+        "title": "Subway (Vestal Parkway East)",
+        "feedback": { "rating": 4.4, "ratingCount": "22" },
+        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/18ead491-d273-4213-acec-673bb2621912.jpeg",
+        "categories": ["$", "Fast Food", "Sandwiches", "American"],
+        "uuid": "764fb088-0957-454b-8e10-a857954a6244"
+    },
+    {
+        "title": "The Cafe on Seminary Avenue",
+        "feedback": null,
+        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/c63f37d5-925b-4f62-bac3-a966acd1a466.jpeg",
+        "categories": ["$$", "Sandwiches", "Salads", "Breakfast and Brunch"],
+        "uuid": "e83fe143-0c3d-4f68-af6b-40438362c317"
+    },
+    {
+        "title": "Munchies Express",
+        "feedback": { "rating": 4.6, "ratingCount": "19" },
+        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/457c9eab-ba4c-4e45-8a27-5e6d450b7c41",
+        "categories": ["$", "Burgers", "American", "Sandwiches"],
+        "uuid": "0fe7a69b-36c8-4420-a289-c0953a1bc4f2"
+    },
+    {
+        "title": "Something Different to Eat",
+        "feedback": { "rating": 3.5, "ratingCount": "17" },
+        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/85daedac-69a2-40ec-9392-bf5f02dfba7b.jpeg",
+        "categories": ["$", "American", "Burgers", "Vegetarian Friendly"],
+        "uuid": "ef9eafc3-3218-4f77-a74d-e00d0c5a16aa"
+    },
+    {
+        "title": "Caribbean Patty World",
+        "feedback": { "rating": 4.6, "ratingCount": "18" },
+        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/cbe01c04-7bee-4906-91e9-41a49d360cb0.jpeg",
+        "categories": ["$", "Caribbean", "Salads", "Sandwiches"],
+        "uuid": "065b3723-7bdf-470e-92ac-8ef52b263759"
+    },
+    {
+        "title": "205 Dry",
+        "feedback": { "rating": 4.5, "ratingCount": "15" },
+        "heroImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1543342876883-w550-cc.jpg",
+        "categories": [
+            "$$",
+            "American",
+            "Bar Food",
+            "Gluten Free Friendly",
+            "Vegetarian Friendly"
+        ],
+        "uuid": "7bd92abd-1698-44de-856c-cbb7490c7334"
+    },
+    {
+        "title": "Sake Tumi",
+        "feedback": { "rating": 4.2, "ratingCount": "38" },
+        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/7635ebb7-e66e-42e7-a228-b77c97bd4ed7",
+        "categories": ["$$", "Asian Fusion", "Vegetarian Friendly", "Sushi"],
+        "uuid": "ca7a5f3d-98eb-4205-a09b-ab6df6b948d9"
+    },
+    {
+        "title": "Pinkies BBQ",
+        "feedback": { "rating": 4.7, "ratingCount": "50" },
+        "heroImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1544547348614-w550-7c.jpg",
+        "categories": ["$", "BBQ", "American", "Comfort Food"],
+        "uuid": "9a2bd901-00c5-4ecd-947c-df2276f3ed0e"
+    },
+    {
+        "title": "SweetFrog (46 S Washington St Suite 1)",
+        "feedback": { "rating": 4.4, "ratingCount": "11" },
+        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/c853e57f-4aba-425d-971b-3fcd061fb687",
+        "categories": ["$", "Ice Cream and Frozen Yogurt", "Desserts"],
+        "uuid": "b9a4fc56-65f1-4593-9b38-63755851374f"
+    },
+    {
+        "title": "The Good Bao",
+        "feedback": { "rating": 4.5, "ratingCount": "83" },
+        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/594f7745-6491-4579-a16c-a580a1fe8ba3",
+        "categories": ["$", "Asian Fusion", "Fast Food"],
+        "uuid": "a5b1bad8-05b2-4034-9bd2-7ddfb728f2df"
+    },
+    {
+        "title": "Denny's (1250 Upper Front St.)",
+        "feedback": { "rating": 3.6, "ratingCount": "19" },
+        "heroImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/5750daa9ad45b9b9dfbeef6b136d0d58-w550-ec.jpg",
+        "categories": [
+            "$$",
+            "American",
+            "Breakfast and Brunch",
+            "Coffee and Tea",
+            "Dinner",
+            "Desserts",
+            "Salads",
+            "Steak",
+            "Sandwiches"
+        ],
+        "uuid": "f6718796-0306-468a-a669-3199a58c063c"
+    },
+    {
+        "title": "Chuck E. Cheese (3901 Vestal Parkway E)",
+        "feedback": null,
+        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/19523b37-a905-48b0-9536-d873cc0e6063.jpeg",
+        "categories": ["$", "Pizza"],
+        "uuid": "2cf8a96c-9163-49f4-85e2-1a39ea5ff527"
+    },
+    {
+        "title": "Beer Thirty",
+        "feedback": { "rating": 4.4, "ratingCount": "19" },
+        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/cdd6df38-11b8-49f1-a0fd-9856bf92d5b3",
+        "categories": ["$", "American", "Burgers", "Sandwiches"],
+        "uuid": "20f3e637-2c89-4bc7-9970-0ed66f0f7aec"
+    },
+    {
+        "title": "Sweetest Thing",
+        "feedback": null,
+        "heroImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1542392358195-w550-f3.jpg",
+        "categories": ["$", "Bubble Tea", "Desserts"],
+        "uuid": "444983a4-3757-4a1a-b5d6-0d2943fa0fa5"
+    },
+    {
+        "title": "Yoga Body Shop",
+        "feedback": { "rating": 5, "ratingCount": "12" },
+        "heroImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1543527033164-w550-5c.jpg",
+        "categories": ["$", "Juice and Smoothies"],
+        "uuid": "b6801462-ce6a-4d8c-9c16-41e6b83a8869"
+    },
+    {
+        "title": "Auntie Anne's (601 Harry L Dr)",
+        "feedback": { "rating": 5, "ratingCount": "25" },
+        "heroImageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/a075b9df123dd43a1ad543204d9f7a94",
+        "categories": ["$", "Bakery", "Desserts", "Pastry"],
+        "uuid": "6a5b3e94-7f92-48a8-bf32-cb1a41be6d5c"
+    },
+    {
+        "title": "Tipsy Toppings",
+        "feedback": { "rating": 4.3, "ratingCount": "57" },
+        "heroImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1542485514600-w550-73.jpg",
+        "categories": ["$$", "Pizza", "Italian"],
+        "uuid": "9d10cce2-ff43-41d0-a286-3b9639d4a92b"
+    },
+    {
+        "title": "The Belmar Pub & Grill",
+        "feedback": { "rating": 4.3, "ratingCount": "19" },
+        "heroImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1541868804296-w550-7c.jpg",
+        "categories": ["$", "Burgers", "Sandwiches", "American"],
+        "uuid": "b1ba8a85-1990-47aa-91c5-245417c4d0eb"
+    },
+    {
+        "title": "Endzones",
+        "feedback": { "rating": 4.2, "ratingCount": "59" },
+        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/db150b0c-6f94-4dce-a38b-2ecd0f4a25b1.jpeg",
+        "categories": ["$", "Pizza", "American", "Italian"],
+        "uuid": "c105f293-e2c6-4e6f-91a8-9de0ac1f7b68"
+    },
+    {
+        "title": "Denny's (4024 Vestal Parkway East)",
+        "feedback": { "rating": 4.2, "ratingCount": "120" },
+        "heroImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/5750daa9ad45b9b9dfbeef6b136d0d58-w550-ec.jpg",
+        "categories": [
+            "$$",
+            "American",
+            "Breakfast and Brunch",
+            "Coffee and Tea",
+            "Dinner",
+            "Desserts",
+            "Salads",
+            "Steak",
+            "Sandwiches"
+        ],
+        "uuid": "dbc2b470-7dbd-4d6e-89bf-9b210229ff3d"
+    },
+    {
+        "title": "Garage Taco Bar",
+        "feedback": { "rating": 4.3, "ratingCount": "102" },
+        "heroImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1543162215534-w550-9c.jpg",
+        "categories": ["$", "Tex Mex"],
+        "uuid": "8755c690-ffc0-43cf-a445-9e638e829868"
+    },
+    {
+        "title": "The Colonial",
+        "feedback": { "rating": 4.5, "ratingCount": "106" },
+        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/c58270c3-33fb-4fd4-a5ec-2217f722674f",
+        "categories": ["$$", "American"],
+        "uuid": "ec8bf366-f245-483a-b3a2-5254b4fc9808"
+    },
+    {
+        "title": "Binghamton Hots",
+        "feedback": { "rating": 4.3, "ratingCount": "184" },
+        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/d720ff55-8ef3-4c0b-b502-f08729ad5d03.jpeg",
+        "categories": [
+            "$",
+            "American",
+            "Vegan Friendly",
+            "Salads",
+            "Kids Friendly"
+        ],
+        "uuid": "53c70b1c-9b73-4236-86b8-7d0b34445dba"
+    },
+    {
+        "title": "Friendly's (561 Harry L Dr)",
+        "feedback": { "rating": 4.5, "ratingCount": "119" },
+        "heroImageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/b61557fd6a2dd0f80da2c05e7d364da8",
+        "categories": [
+            "$",
+            "American",
+            "Breakfast and Brunch",
+            "Ice Cream and Frozen Yogurt",
+            "Sandwiches"
+        ],
+        "uuid": "edfd5710-7a41-4891-ad81-499ddfca5711"
+    }
+]

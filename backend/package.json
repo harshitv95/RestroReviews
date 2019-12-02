@@ -1,0 +1,11 @@
+{
+  "name": "restro-reviews-backend",
+  "version": "1.0.0",
+  "description": "A NoSQL project, demonstrating storing, updating and retrieving restro reviews data from a NoSQL database, in this case, MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harshit Vadodaria",
+  "license": "ISC"
+}

@@ -1,0 +1,551 @@
+{
+    "title": "Popeyes (164 Main St)",
+    "uuid": "897b5f5d-3d7e-4ddd-83d3-c586a6b7c65f",
+    "menuClassifications": {
+        "e0019353-4b54-4668-9203-828b943cfcc2": {
+            "itemUuids": ["9a06185a-7d76-4afd-a9e5-ff2bb5a62d98"],
+            "subtitle": null,
+            "title": "Desserts",
+            "uuid": "e0019353-4b54-4668-9203-828b943cfcc2",
+            "displayType": null
+        },
+        "0195a555-1031-431a-b897-9cf025961c6f": {
+            "itemUuids": [
+                "dc65cab4-17da-42b3-a652-3b74781def46",
+                "bcca7313-2f30-4065-94cc-8db06a7cc27e",
+                "4c1fc4d4-c987-4778-b06b-29bb4e17b946",
+                "91e2be88-2611-4cc7-aa8c-5958a5800450",
+                "15cf64e0-4a27-4a2b-b6a0-e02bf278947a",
+                "338103af-f70a-4973-922a-77382a3d6d19",
+                "6b3f5272-9afb-4977-a25d-5f905a92b7b9",
+                "f42d23a3-9ad2-4af5-aad8-4be547a7f2fd",
+                "8085b193-e658-435b-8ee0-48e347f42092"
+            ],
+            "subtitle": null,
+            "title": "Chicken Family Meals",
+            "uuid": "0195a555-1031-431a-b897-9cf025961c6f",
+            "displayType": null
+        },
+        "de542fc3-87c1-4712-a45c-4c6befb7baaa": {
+            "itemUuids": ["7fef6a0a-ffa6-4bb2-83ff-004843bf4249"],
+            "subtitle": null,
+            "title": "Seafood Dinners",
+            "uuid": "de542fc3-87c1-4712-a45c-4c6befb7baaa",
+            "displayType": null
+        },
+        "ca32083b-3fd3-455e-bd71-4a576f93b2e4": {
+            "itemUuids": [
+                "33e2b364-04aa-4972-96a8-2ae1b91dff81",
+                "ce1e884b-5430-4cc5-be2b-42c1f5f0e0ef",
+                "2e7ed830-f1a0-4f25-b4ba-29f1078af9dc",
+                "092bcd17-1bf0-44bd-9d6a-d599a25b3453",
+                "898dcb3a-f237-4d20-a069-62cda5da4148",
+                "10fb31ad-e099-418b-943f-adbef4719fb1"
+            ],
+            "subtitle": null,
+            "title": "Signature Sides",
+            "uuid": "ca32083b-3fd3-455e-bd71-4a576f93b2e4",
+            "displayType": null
+        },
+        "ea4a7fd2-2224-4230-8e40-7c7894dc0026": {
+            "itemUuids": ["d2aaff84-d4df-47c1-a523-31cca52dd57f"],
+            "subtitle": null,
+            "title": "Seafood Combos",
+            "uuid": "ea4a7fd2-2224-4230-8e40-7c7894dc0026",
+            "displayType": null
+        },
+        "c2faf051-5eb2-4269-82d6-aaa456a78e39": {
+            "itemUuids": [
+                "ed38efbd-574a-48c7-b60a-ca00d93e79c9",
+                "43ff82d8-fbb4-4030-a824-b451744a784a",
+                "20ce940b-a0ca-4825-abae-22fc30ce2c94",
+                "5a046351-5104-47a7-9db6-c418d19ee79d",
+                "298200c2-83fc-4cfc-9bdb-3a50b9305402",
+                "dc981769-cad8-4cd3-9079-7e97d993264c",
+                "166f3876-8723-4b75-8f14-e4cc2d788ad5",
+                "faa27e11-1ea1-4eee-8069-52e8f09c67f7",
+                "93f732d6-2204-4b8d-bacd-fb9561f9f38d"
+            ],
+            "subtitle": null,
+            "title": "Chicken Family Boxes",
+            "uuid": "c2faf051-5eb2-4269-82d6-aaa456a78e39",
+            "displayType": null
+        },
+        "9ce77d91-d977-4a44-998e-43ed02520899": {
+            "itemUuids": [
+                "d8abd569-1e40-4e55-bdac-482fa71716ce",
+                "f1887a0f-3138-405c-a63a-a8e72595c707",
+                "e8820689-722e-4188-a2d2-06b4e013dbbc",
+                "831555cd-8f49-4678-b603-099222877cb5"
+            ],
+            "subtitle": null,
+            "title": "Chicken Combos",
+            "uuid": "9ce77d91-d977-4a44-998e-43ed02520899",
+            "displayType": null
+        },
+        "ba84a950-28b7-40c8-9262-9e92cd6470e8": {
+            "itemUuids": ["dfd415bf-3017-419a-bf9b-3f2742ea1d09"],
+            "subtitle": null,
+            "title": "Limited Time Offers",
+            "uuid": "ba84a950-28b7-40c8-9262-9e92cd6470e8",
+            "displayType": null
+        },
+        "2f2528d5-6680-443e-aa42-db4d33526da3": {
+            "itemUuids": [
+                "ec8975c1-354d-45d1-a315-220be931d95b",
+                "017b1187-53d3-472d-a5a9-e4cf82da2623",
+                "d890b062-108f-4c49-8eb1-8fe6d595b73b",
+                "98e43480-7b0e-4cdf-846e-234998209b21"
+            ],
+            "subtitle": null,
+            "title": "Chicken Dinners",
+            "uuid": "2f2528d5-6680-443e-aa42-db4d33526da3",
+            "displayType": null
+        },
+        "7e12b8f3-bad7-5d38-9de2-f29df095e949": {
+            "itemUuids": [
+                "831555cd-8f49-4678-b603-099222877cb5",
+                "e8820689-722e-4188-a2d2-06b4e013dbbc",
+                "d2aaff84-d4df-47c1-a523-31cca52dd57f",
+                "dc65cab4-17da-42b3-a652-3b74781def46",
+                "9a06185a-7d76-4afd-a9e5-ff2bb5a62d98"
+            ],
+            "subtitle": null,
+            "title": "Recommended",
+            "uuid": "7e12b8f3-bad7-5d38-9de2-f29df095e949",
+            "displayType": null
+        },
+        "72c47f99-b83d-426f-ae5b-b6fec94c1074": {
+            "itemUuids": [
+                "7a31b7cd-f7b2-49c4-9610-8e828fb1f4b5",
+                "5a3725ab-776f-4f5b-b3f9-bf45294e5d12"
+            ],
+            "subtitle": null,
+            "title": "Beverages",
+            "uuid": "72c47f99-b83d-426f-ae5b-b6fec94c1074",
+            "displayType": null
+        }
+    },
+    "menu": {
+        "9271ed27-6338-4096-ac90-732c5b367710": {
+            "338103af-f70a-4973-922a-77382a3d6d19": {
+                "description": "Includes three large signature sides and eight hot buttermilk biscuits and six sauces.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/c9ba21c2-e0a0-43e6-923b-a3061a7a460e",
+                "price": 3699,
+                "title": "Handcrafted Tenders (16 Pcs)",
+                "uuid": "338103af-f70a-4973-922a-77382a3d6d19",
+                "nutritionalInfo": { "allergens": "", "displayString": "" },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "43ff82d8-fbb4-4030-a824-b451744a784a": {
+                "description": "Include three sauces",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/581b44c4-a1ff-4c50-9f5c-da3ef243e9b5",
+                "price": 1299,
+                "title": "Handcrafted Tenders (8 Pcs)",
+                "uuid": "43ff82d8-fbb4-4030-a824-b451744a784a",
+                "nutritionalInfo": { "allergens": "", "displayString": "" },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "dfd415bf-3017-419a-bf9b-3f2742ea1d09": {
+                "description": "",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/8432a55a-1f5f-490c-ae58-737ddf9219ae.jpeg",
+                "price": 249,
+                "title": "Bourbon Fudge Pie",
+                "uuid": "dfd415bf-3017-419a-bf9b-3f2742ea1d09",
+                "nutritionalInfo": { "allergens": "", "displayString": "" },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "20ce940b-a0ca-4825-abae-22fc30ce2c94": {
+                "description": "",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/f2f67419-af99-4881-be98-6c206f551cf8",
+                "price": 1999,
+                "title": "Mixed Chicken (12 Pcs)",
+                "uuid": "20ce940b-a0ca-4825-abae-22fc30ce2c94",
+                "nutritionalInfo": { "allergens": "", "displayString": "" },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "d890b062-108f-4c49-8eb1-8fe6d595b73b": {
+                "description": "Includes a choice of regular signature side and a biscuit.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/e698021a-8cc8-4302-b3c3-1130e8410017",
+                "price": 799,
+                "title": "Chicken Dinner (3 Pcs)",
+                "uuid": "d890b062-108f-4c49-8eb1-8fe6d595b73b",
+                "nutritionalInfo": { "allergens": "", "displayString": "" },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "bcca7313-2f30-4065-94cc-8db06a7cc27e": {
+                "description": "Includes one large signature side, four hot buttermilk biscuits, and three sauces.",
+                "imageUrl": "",
+                "price": 2199,
+                "title": "Handcrafted Tenders (8 Pcs)",
+                "uuid": "bcca7313-2f30-4065-94cc-8db06a7cc27e",
+                "nutritionalInfo": { "allergens": "", "displayString": "" },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "ce1e884b-5430-4cc5-be2b-42c1f5f0e0ef": {
+                "description": "",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/ad752f09-adcb-44d8-b453-d927b0385d3b",
+                "price": 249,
+                "title": "Coleslaw",
+                "uuid": "ce1e884b-5430-4cc5-be2b-42c1f5f0e0ef",
+                "nutritionalInfo": { "allergens": "", "displayString": "" },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "f1887a0f-3138-405c-a63a-a8e72595c707": {
+                "description": "Includes a choice of regular signature side, a biscuit and a drink.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/b516e9ae-e043-41e6-9439-73f0c8ca4d21",
+                "price": 799,
+                "title": "Handcrafted Tender Combo (3 Pcs)",
+                "uuid": "f1887a0f-3138-405c-a63a-a8e72595c707",
+                "nutritionalInfo": { "allergens": "", "displayString": "" },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "4c1fc4d4-c987-4778-b06b-29bb4e17b946": {
+                "description": "Includes two large signature sides and six hot buttermilk biscuits.",
+                "imageUrl": "",
+                "price": 2999,
+                "title": "Mixed Chicken (12 Pcs)",
+                "uuid": "4c1fc4d4-c987-4778-b06b-29bb4e17b946",
+                "nutritionalInfo": { "allergens": "", "displayString": "" },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "5a046351-5104-47a7-9db6-c418d19ee79d": {
+                "description": "Include four sauces",
+                "imageUrl": "",
+                "price": 1999,
+                "title": "Handcrafted Tenders (12 Pcs)",
+                "uuid": "5a046351-5104-47a7-9db6-c418d19ee79d",
+                "nutritionalInfo": { "allergens": "", "displayString": "" },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "298200c2-83fc-4cfc-9bdb-3a50b9305402": {
+                "description": "",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/e3e8141e-1330-42a3-86ba-d389de3d0842",
+                "price": 2299,
+                "title": "Mixed Chicken (16 Pcs)",
+                "uuid": "298200c2-83fc-4cfc-9bdb-3a50b9305402",
+                "nutritionalInfo": { "allergens": "", "displayString": "" },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "7a31b7cd-f7b2-49c4-9610-8e828fb1f4b5": {
+                "description": "",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/62cc6f78-4cce-4ae2-9ec2-33f9daf929fa",
+                "price": 399,
+                "title": "½ Gallon and Gallon",
+                "uuid": "7a31b7cd-f7b2-49c4-9610-8e828fb1f4b5",
+                "nutritionalInfo": { "allergens": "", "displayString": "" },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "10fb31ad-e099-418b-943f-adbef4719fb1": {
+                "description": "",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/54775267-7396-4ce1-9ac9-6b7f13fdb449",
+                "price": 89,
+                "title": "Biscuits",
+                "uuid": "10fb31ad-e099-418b-943f-adbef4719fb1",
+                "nutritionalInfo": { "allergens": "", "displayString": "" },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "ed38efbd-574a-48c7-b60a-ca00d93e79c9": {
+                "description": "",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/2cb7c75a-06b7-46c2-b79b-1f7abd3b5a46",
+                "price": 1299,
+                "title": "Mixed Chicken (8 Pcs)",
+                "uuid": "ed38efbd-574a-48c7-b60a-ca00d93e79c9",
+                "nutritionalInfo": { "allergens": "", "displayString": "" },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "8085b193-e658-435b-8ee0-48e347f42092": {
+                "description": "Includes six large signature sides and fifteen hot buttermilk biscuits.",
+                "imageUrl": "",
+                "price": 5000,
+                "title": "Mixed Chicken (30 Pcs)",
+                "uuid": "8085b193-e658-435b-8ee0-48e347f42092",
+                "nutritionalInfo": { "allergens": "", "displayString": "" },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "91e2be88-2611-4cc7-aa8c-5958a5800450": {
+                "description": "Includes two large signature sides and six hot buttermilk biscuits and four sauces.",
+                "imageUrl": "",
+                "price": 2999,
+                "title": "Handcrafted Tenders (12 Pcs)",
+                "uuid": "91e2be88-2611-4cc7-aa8c-5958a5800450",
+                "nutritionalInfo": { "allergens": "", "displayString": "" },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "831555cd-8f49-4678-b603-099222877cb5": {
+                "description": "Includes a choice of regular signature side, a biscuit and a drink.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/451217c8-abb4-407c-959e-7e6100bf3748",
+                "price": 899,
+                "title": "Handcrafted Tender Combo (5 Pcs)",
+                "uuid": "831555cd-8f49-4678-b603-099222877cb5",
+                "nutritionalInfo": { "allergens": "", "displayString": "" },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "93f732d6-2204-4b8d-bacd-fb9561f9f38d": {
+                "description": "",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/c68f386e-6a07-4f8e-a999-bef664aa8c42.jpeg",
+                "price": 3400,
+                "title": "Mixed Chicken (30 Pcs)",
+                "uuid": "93f732d6-2204-4b8d-bacd-fb9561f9f38d",
+                "nutritionalInfo": { "allergens": "", "displayString": "" },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "d8abd569-1e40-4e55-bdac-482fa71716ce": {
+                "description": "Includes a choice of regular signature side, a biscuit and a drink.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/d6276129-889e-412c-a395-c8cd6445cd32",
+                "price": 799,
+                "title": "Chicken Combo (2 Pcs)",
+                "uuid": "d8abd569-1e40-4e55-bdac-482fa71716ce",
+                "nutritionalInfo": { "allergens": "", "displayString": "" },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "7fef6a0a-ffa6-4bb2-83ff-004843bf4249": {
+                "description": "Includes a choice of regular signature side, a biscuit. *Weight based on pre-cooked shrimp weight.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/429f1f4f-3e5b-4d81-8fda-c5bcad43ef24.jpeg",
+                "price": 749,
+                "title": "¼ Pound Popcorn Shrimp Dinner*",
+                "uuid": "7fef6a0a-ffa6-4bb2-83ff-004843bf4249",
+                "nutritionalInfo": { "allergens": "", "displayString": "" },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "6b3f5272-9afb-4977-a25d-5f905a92b7b9": {
+                "description": "Includes four large signature sides and ten hot buttermilk biscuits.",
+                "imageUrl": "",
+                "price": 4099,
+                "title": "Mixed Chicken (20 Pcs)",
+                "uuid": "6b3f5272-9afb-4977-a25d-5f905a92b7b9",
+                "nutritionalInfo": { "allergens": "", "displayString": "" },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "98e43480-7b0e-4cdf-846e-234998209b21": {
+                "description": "Includes a choice of regular signature side and a biscuit.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/f1295e0d-64ae-48b7-b25e-90109b7407ad",
+                "price": 799,
+                "title": "Handcrafted Tenders Dinner (5 Pcs)",
+                "uuid": "98e43480-7b0e-4cdf-846e-234998209b21",
+                "nutritionalInfo": { "allergens": "", "displayString": "" },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "dc65cab4-17da-42b3-a652-3b74781def46": {
+                "description": "Includes one large signature side and four hot buttermilk biscuits.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/17f94d17-9cba-47fe-bbdd-8f45e01e1e37",
+                "price": 2199,
+                "title": "Mixed Chicken (8 Pcs)",
+                "uuid": "dc65cab4-17da-42b3-a652-3b74781def46",
+                "nutritionalInfo": { "allergens": "", "displayString": "" },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "f42d23a3-9ad2-4af5-aad8-4be547a7f2fd": {
+                "description": "Includes four large signature sides and ten hot buttermilk biscuits and eight sauces.",
+                "imageUrl": "",
+                "price": 3299,
+                "title": "Handcrafted Tenders (20 Pcs)",
+                "uuid": "f42d23a3-9ad2-4af5-aad8-4be547a7f2fd",
+                "nutritionalInfo": { "allergens": "", "displayString": "" },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "5a3725ab-776f-4f5b-b3f9-bf45294e5d12": {
+                "description": "",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/89be8047-f945-4d8a-bf98-5782535979d4",
+                "price": 209,
+                "title": "Soda",
+                "uuid": "5a3725ab-776f-4f5b-b3f9-bf45294e5d12",
+                "nutritionalInfo": { "allergens": "", "displayString": "" },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "092bcd17-1bf0-44bd-9d6a-d599a25b3453": {
+                "description": "",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/256e4d8b-449a-4458-988c-47cddcf1e884",
+                "price": 249,
+                "title": "Cajun Fries",
+                "uuid": "092bcd17-1bf0-44bd-9d6a-d599a25b3453",
+                "nutritionalInfo": { "allergens": "", "displayString": "" },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "9a06185a-7d76-4afd-a9e5-ff2bb5a62d98": {
+                "description": "",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/93ae9f9b-fd84-4e07-ae92-e11277ff1208.jpeg",
+                "price": 129,
+                "title": "Apple Pie",
+                "uuid": "9a06185a-7d76-4afd-a9e5-ff2bb5a62d98",
+                "nutritionalInfo": { "allergens": "", "displayString": "" },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "166f3876-8723-4b75-8f14-e4cc2d788ad5": {
+                "description": "",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/29769cda-b3d6-415e-b28e-ab35f66455c1",
+                "price": 2999,
+                "title": "Mixed Chicken (20 Pcs)",
+                "uuid": "166f3876-8723-4b75-8f14-e4cc2d788ad5",
+                "nutritionalInfo": { "allergens": "", "displayString": "" },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "faa27e11-1ea1-4eee-8069-52e8f09c67f7": {
+                "description": "Include eight sauces",
+                "imageUrl": "",
+                "price": 2199,
+                "title": "Handcrafted Tenders (20 Pcs)",
+                "uuid": "faa27e11-1ea1-4eee-8069-52e8f09c67f7",
+                "nutritionalInfo": { "allergens": "", "displayString": "" },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "2e7ed830-f1a0-4f25-b4ba-29f1078af9dc": {
+                "description": "",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/b0bbf9f4-6629-4b24-8ac0-800614a9ad8a",
+                "price": 249,
+                "title": "Mashed Potatoes with Cajun Gravy",
+                "uuid": "2e7ed830-f1a0-4f25-b4ba-29f1078af9dc",
+                "nutritionalInfo": { "allergens": "", "displayString": "" },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "ec8975c1-354d-45d1-a315-220be931d95b": {
+                "description": "Includes a choice of regular signature side and a biscuit.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/7b3234f3-25c1-4bec-82e3-5be3a82cd319",
+                "price": 699,
+                "title": "Chicken Dinner (2 Pcs)",
+                "uuid": "ec8975c1-354d-45d1-a315-220be931d95b",
+                "nutritionalInfo": { "allergens": "", "displayString": "" },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "d2aaff84-d4df-47c1-a523-31cca52dd57f": {
+                "description": "Includes a choice of regular signature side, a biscuit and a drink. *Weight based on pre-cooked shrimp weight",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/d8daa789-841a-44bf-b372-aed59ef92f41",
+                "price": 649,
+                "title": "¼ Pound Popcorn Shrimp Combo*",
+                "uuid": "d2aaff84-d4df-47c1-a523-31cca52dd57f",
+                "nutritionalInfo": { "allergens": "", "displayString": "" },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "33e2b364-04aa-4972-96a8-2ae1b91dff81": {
+                "description": "",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/1d8729aa-ba4c-4af4-a1fc-19dadb900ee2",
+                "price": 249,
+                "title": "Red Beans and Rice",
+                "uuid": "33e2b364-04aa-4972-96a8-2ae1b91dff81",
+                "nutritionalInfo": { "allergens": "", "displayString": "" },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "898dcb3a-f237-4d20-a069-62cda5da4148": {
+                "description": "",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/dcda9723-6ddf-4730-afb2-b6c9cfcd2ba3",
+                "price": 249,
+                "title": "Cajun Rice",
+                "uuid": "898dcb3a-f237-4d20-a069-62cda5da4148",
+                "nutritionalInfo": { "allergens": "", "displayString": "" },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "15cf64e0-4a27-4a2b-b6a0-e02bf278947a": {
+                "description": "Includes three large signature sides and eight hot buttermilk biscuits.",
+                "imageUrl": "",
+                "price": 3699,
+                "title": "Mixed Chicken (16 Pcs)",
+                "uuid": "15cf64e0-4a27-4a2b-b6a0-e02bf278947a",
+                "nutritionalInfo": { "allergens": "", "displayString": "" },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "dc981769-cad8-4cd3-9079-7e97d993264c": {
+                "description": "Include six sauces",
+                "imageUrl": "",
+                "price": 2299,
+                "title": "Handcrafted Tenders (16 Pcs)",
+                "uuid": "dc981769-cad8-4cd3-9079-7e97d993264c",
+                "nutritionalInfo": { "allergens": "", "displayString": "" },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "017b1187-53d3-472d-a5a9-e4cf82da2623": {
+                "description": "Includes a choice of regular signature side and a biscuit.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/f77d8e43-7694-4773-906f-df76af3e9137",
+                "price": 699,
+                "title": "Handcrafted Tenders Dinner (3 Pcs)",
+                "uuid": "017b1187-53d3-472d-a5a9-e4cf82da2623",
+                "nutritionalInfo": { "allergens": "", "displayString": "" },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "e8820689-722e-4188-a2d2-06b4e013dbbc": {
+                "description": "Includes a choice of regular signature side, a biscuit and a drink.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/ae3b5323-539a-4477-a3ff-81a6405523e2",
+                "price": 899,
+                "title": "Chicken Combo (3 Pcs)",
+                "uuid": "e8820689-722e-4188-a2d2-06b4e013dbbc",
+                "nutritionalInfo": { "allergens": "", "displayString": "" },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            }
+        }
+    }
+}

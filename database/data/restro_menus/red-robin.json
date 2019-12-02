@@ -1,0 +1,1963 @@
+{
+    "title": "Red Robin (2545 Vestal Parkway East)",
+    "uuid": "cecd2ab0-0fc7-4cd7-b456-e198eb89c648",
+    "menuClassifications": {
+        "27554877-f921-511b-83ec-d9b22ac6c764": {
+            "itemUuids": [
+                "6236200f-8e1c-5e5e-b583-815063ccfa10",
+                "0b05a02c-9a19-52e4-b015-206b74d152f8",
+                "9828e0b9-e8c5-55f7-9730-7e5bbb313960",
+                "a30111fc-1f36-5aeb-be47-eb3cf5dd6177",
+                "fe720d0b-92f8-5810-9131-92d4c78dd39e",
+                "92a182ce-f56a-52ed-b0fc-6546dbc9db26",
+                "984a1308-5a61-5419-8814-fdfa85cf68a9",
+                "0f8f66d5-a221-56ab-a895-599834d594e6",
+                "03d306e1-1bd8-5661-8978-44693bf38847",
+                "74d6e785-57b3-5d08-91f5-377b3f2be1b3",
+                "1aec302c-39c7-5927-a66e-c345319b41b3",
+                "f5d267aa-108a-56c3-919b-03b17887dd50"
+            ],
+            "subtitle": "",
+            "title": "Burgers - Tavern",
+            "uuid": "27554877-f921-511b-83ec-d9b22ac6c764",
+            "displayType": null
+        },
+        "2dfac110-9178-5d31-83f6-b8c00c079fd7": {
+            "itemUuids": [
+                "8500af0f-74cf-5060-a960-42c139e4d292",
+                "2a3d9cc5-edb4-5a1c-abf5-af81a31f8c55",
+                "f5a8260b-8f93-5697-a730-953a9ec7b4e0",
+                "93ff1365-3621-5031-96d3-193d4c33a14e",
+                "750a6930-f56e-5919-9ab4-398f522e0c98",
+                "2464a793-f9a4-5233-b86c-f881e4c45a8b",
+                "b68a61f4-8b3e-59f5-9838-bfa2cbef914f",
+                "416e6d37-29d3-5c15-96b2-f58c4d40bfbe",
+                "45998816-f047-5aba-93cb-181277581956",
+                "dfad9c30-0676-554b-b6f9-32a050a1043f",
+                "115a0793-f4bd-5015-91a3-f18ac452b5ce",
+                "49df8f11-9428-56ba-8538-417eba807c1e"
+            ],
+            "subtitle": "",
+            "title": "Salads & Soups",
+            "uuid": "2dfac110-9178-5d31-83f6-b8c00c079fd7",
+            "displayType": null
+        },
+        "a4bcf5f0-4a00-5a65-bb80-2170eb751b86": {
+            "itemUuids": [
+                "c0a58fd2-9e10-55f3-8b42-9c8d82870d1d",
+                "f0242b3c-555a-51b2-adf5-cfab5d57e5d1",
+                "691b7653-ab58-531c-8258-dcb0273070bc",
+                "af710516-2f96-53ad-ae20-5ee0d58d7cc9",
+                "32642780-1291-5172-b0c6-19f0ba781408",
+                "44945751-4133-5a87-8b55-7e2b06f15870"
+            ],
+            "subtitle": "",
+            "title": "Desserts",
+            "uuid": "a4bcf5f0-4a00-5a65-bb80-2170eb751b86",
+            "displayType": null
+        },
+        "7e12b8f3-9b62-55da-bf67-75d040bcd69a": {
+            "itemUuids": [
+                "4b7fd6f9-9276-5b82-ace9-ec76d036aed4",
+                "0fc6f99b-c990-5992-b44d-db29a4c2a269",
+                "b96fac29-8090-54b5-a952-4a8128e2234f",
+                "92a182ce-f56a-52ed-b0fc-6546dbc9db26",
+                "ba40adbf-654b-5614-ac45-f8d4bb27a102"
+            ],
+            "subtitle": null,
+            "title": "Recommended",
+            "uuid": "7e12b8f3-9b62-55da-bf67-75d040bcd69a",
+            "displayType": null
+        },
+        "a0494126-fe25-53f6-8b3a-c06b6fee20af": {
+            "itemUuids": [
+                "f423fc1e-41b7-5391-a4d6-9f791a35b5f8",
+                "54aab0b6-3328-5134-b7a5-624bdfc49ef4",
+                "282fe906-e047-5ec5-8d9c-af6b038547c8",
+                "d6a3bcfd-ea13-5971-93d3-5acbf0cb4f52",
+                "b7cd5fce-26d0-579f-ae6e-5120b4894435",
+                "cb5b4fb2-f8ca-5b85-b35a-d8cdb639442f",
+                "dbb15be7-8861-56a0-84bb-f99fa71c4b4a",
+                "fa51c0d0-b50b-56da-8fe0-e34ed10fc8c0",
+                "23de5a3a-4f33-5221-b6b9-9451b9dfc591",
+                "2ab8f176-5f70-5d29-9fe5-eb3e08cffd32",
+                "7e378f30-ff13-58aa-ad8a-3cb896cd9b7c"
+            ],
+            "subtitle": "",
+            "title": "Kids",
+            "uuid": "a0494126-fe25-53f6-8b3a-c06b6fee20af",
+            "displayType": null
+        },
+        "4a54acd4-37f3-51de-a5b9-e263952d44a6": {
+            "itemUuids": [
+                "8500ac88-dcc7-58b8-b971-946c380c0a06",
+                "b76c64d4-37e1-54de-9322-04996be2dae5",
+                "38d84afc-e425-58e3-9f7c-205b89d04c24",
+                "718f9157-f568-5ea4-8121-55abfd0b5632",
+                "fd6c850f-b1d8-583b-b033-f04c52274b80",
+                "4dd59d6e-2592-55ad-88ef-901bcec2f94d",
+                "57886dae-86b8-5253-959d-63251c739332"
+            ],
+            "subtitle": "",
+            "title": "Burgers - Finest",
+            "uuid": "4a54acd4-37f3-51de-a5b9-e263952d44a6",
+            "displayType": null
+        },
+        "49765109-960c-5bac-a45d-e36337ad2158": {
+            "itemUuids": [
+                "85971084-236b-54eb-9982-d38afffddf36",
+                "f9473cbf-2976-5e2c-9159-1f8014f9485a",
+                "c811ed5b-69be-5b9b-8dcd-c572ad3c7b41",
+                "80e70b1f-305b-5f8f-8a65-e7658ab87d40",
+                "3aeb6fb4-544e-555d-b1c6-cea34542ae84",
+                "afcbb98d-bd3d-561a-82b6-197f9790e4bc"
+            ],
+            "subtitle": "",
+            "title": "Burgers - Chicken & More",
+            "uuid": "49765109-960c-5bac-a45d-e36337ad2158",
+            "displayType": null
+        },
+        "c96a8a70-ac69-55e9-8c78-9a027a3ce63c": {
+            "itemUuids": [
+                "97298586-29f8-5c5c-9b35-99cbc6ab99e6",
+                "d5841aab-8b4b-53a3-b96b-49cdd0702b61",
+                "a286e303-9a4e-5f9e-b144-9eebab9aa6fb",
+                "c6a0908b-9a87-5a02-96d8-0570ac0ca4ac",
+                "d0a4f673-58e0-516e-bf17-2a8aff45905f"
+            ],
+            "subtitle": "",
+            "title": "Wraps & Sandwiches",
+            "uuid": "c96a8a70-ac69-55e9-8c78-9a027a3ce63c",
+            "displayType": null
+        },
+        "c84911c9-6feb-5cc2-b0d2-9f630c6c4a17": {
+            "itemUuids": [
+                "c0b96571-8577-568b-a154-b6aa530f91c6",
+                "9be17c8b-08d0-5955-aeb7-d2fc2dae3ef2",
+                "21ea7f20-5acf-5592-b8de-79fad65246f6",
+                "ba40adbf-654b-5614-ac45-f8d4bb27a102",
+                "e3cd1d9b-a336-5229-9838-e1c234727891",
+                "4b7fd6f9-9276-5b82-ace9-ec76d036aed4",
+                "ca78b42a-91be-5a6f-bd32-abce91e8d399",
+                "138b6cac-9caa-519f-9261-20432b3d363d"
+            ],
+            "subtitle": "",
+            "title": "Sides",
+            "uuid": "c84911c9-6feb-5cc2-b0d2-9f630c6c4a17",
+            "displayType": null
+        },
+        "f047992c-ae90-5c43-9adb-b92ab4710452": {
+            "itemUuids": [
+                "ffb4b0a7-72f3-56cc-a8b8-80324a70a9bb",
+                "dbf8c331-7007-5688-8101-92240654909f",
+                "a17144f9-ec3d-52a4-acc1-0e8d0999662e",
+                "fe0ae2c4-e07f-517b-ae76-2852fda9f67d",
+                "e0fa9704-98ef-5ea1-b6c5-5f3480b595bb",
+                "c526048c-072d-5d52-af7b-4a11160a3633",
+                "ef4e4c7f-20d2-5202-9c6e-c58f7645733c",
+                "742af8d3-e329-5325-9462-ac0d4f38b627",
+                "081e8fe4-441a-598b-8011-f9d672a78159",
+                "c65c9c4f-ceb4-5073-9a8c-34c687344399",
+                "e09e086b-3eda-5f04-a42f-5131d7fc1e7f",
+                "2217a0ef-5fea-5ed7-b4a5-0bd3448c92c5",
+                "ae6e5fe5-2a99-54c0-99f7-39f1944f9eb5",
+                "a33f4858-864d-557b-be6e-96a2f83794b4",
+                "219a931a-0ee6-5ebd-8869-7dae0cbe244b",
+                "a5d80807-f7a2-5cc0-8f35-a19b399c4264",
+                "6a7c8f9d-497d-5edf-8a3f-977b17f69281"
+            ],
+            "subtitle": "",
+            "title": "Beverages",
+            "uuid": "f047992c-ae90-5c43-9adb-b92ab4710452",
+            "displayType": null
+        },
+        "d13f8cb5-1bc0-5b7e-a473-224bf669cf61": {
+            "itemUuids": [
+                "7de25338-f824-5d75-9343-66f960644a7f",
+                "88f2bdc7-c510-54d3-bc2a-5af86dbe107b",
+                "12cff3e1-ae58-50d2-a3ed-9156306b0411",
+                "eab3c5b1-6e3c-53cd-bad5-05068052af57",
+                "2a6b7df2-f04e-5b1c-b726-d8760e6d5549",
+                "2f574fa5-7537-5167-a897-944538adddf8",
+                "461b736e-21cf-5757-80ab-56e80427bd43",
+                "f53a52a6-d0d1-5832-a865-c4f4870d2bea",
+                "818a2182-7de9-505c-a81a-0bbe2c3f055a",
+                "1a8f2cc0-d5a0-58ed-87f3-3ea380fc8acd",
+                "2364cc43-5482-51f5-87c6-394d1addad3c",
+                "a535ead6-89de-50ee-8d80-6c74cf7f79b1",
+                "893c3d7a-208e-5b38-bdc0-5fc9b39f35c8"
+            ],
+            "subtitle": "",
+            "title": "Appetizers",
+            "uuid": "d13f8cb5-1bc0-5b7e-a473-224bf669cf61",
+            "displayType": null
+        },
+        "8a172074-6371-512d-aab1-26b986ad9a9d": {
+            "itemUuids": [
+                "c487ebbe-6c49-596a-9cf0-0ddf61fce5c2",
+                "95e9faa2-7308-5636-9ecd-310b07ffe3cc",
+                "1d4f0f13-ea14-5d1c-a041-5d872044aa23",
+                "775efd07-b393-50b4-88fa-ad525dba96d9",
+                "41ecdaae-28ef-5d38-b2ce-d60232ead1d3",
+                "771d1721-6643-5b94-b513-4c702b1799da",
+                "cd2a2a92-9e4e-54dc-9cc4-8d47c02ca8ad",
+                "8f2b152c-b0c5-57b8-b4fe-f2fc067c7d2d",
+                "b4bf343c-dd93-5036-bb72-1912b6fad583",
+                "ad45077e-0e9f-5eaa-b11e-a054580f42e5",
+                "632ca60a-93c6-5d48-90e1-2557f6fa325a",
+                "070cd505-d2d0-510c-83cc-4080fa5ae030",
+                "440b910f-7d3a-5082-978a-bdd566ebdc8f",
+                "7542c4ac-18c9-5858-9a4b-8298f644be56",
+                "2d12cbfe-c2c1-5dc1-9dba-1b0c06a46b94",
+                "485390c3-f23c-5823-908a-839e2be3a6af",
+                "7779e4cc-c65b-5718-88ee-f49acdb40625",
+                "a892f178-b643-539c-9cf3-c0f1b3b232ff",
+                "83886711-2d9f-5678-aab7-88639487e263",
+                "aa1599de-5124-5ca3-93e1-a35f051e7164",
+                "fb063c57-bc7a-5207-8330-db6290dc8f80",
+                "cd7ae660-13d2-5f19-9a24-3052ee3150b0"
+            ],
+            "subtitle": "",
+            "title": "Deliciously Dunkable Dipping Sauces",
+            "uuid": "8a172074-6371-512d-aab1-26b986ad9a9d",
+            "displayType": null
+        },
+        "debe9e49-1b7e-59b8-9b91-5383c09f5ed9": {
+            "itemUuids": [
+                "8c018bc8-0c3a-51b0-8041-212df81980cd",
+                "240fa9aa-d547-5978-8d3b-f4301c64bd45",
+                "0fc6f99b-c990-5992-b44d-db29a4c2a269",
+                "433ebe2d-f6b5-5500-aa07-7a1219e52769",
+                "acb90c1d-0b39-51e6-9ba1-cd266baf5a01",
+                "6c155576-b341-5370-b1ca-12cacafcc07e",
+                "574dcecc-7952-51e4-8da9-539001997d39",
+                "0cc27cf7-1b46-5e2a-96c7-bb6e642a2ad6",
+                "c88db69c-a75e-50a2-a950-f0cee012c998"
+            ],
+            "subtitle": "",
+            "title": "Entrées",
+            "uuid": "debe9e49-1b7e-59b8-9b91-5383c09f5ed9",
+            "displayType": null
+        },
+        "d2bf5a60-6ea8-50af-9878-eada6179868d": {
+            "itemUuids": [
+                "76ff4d5e-1101-503d-b350-d1b059474db6",
+                "03d7ca15-abe1-5fdc-88fa-b4343f3a2f87",
+                "8966bc4b-a6b1-5a93-a3c6-e7c1601cb8b1",
+                "319a794b-ccd7-54b6-b87c-38fd8c62549e",
+                "800d857a-0a95-5863-8eaf-297c4c51ae30",
+                "60e75f27-9414-5470-ab9a-fade646d70de",
+                "9feb5a30-ed20-50a4-937a-b21fce49dc39",
+                "f62257f1-e47b-59aa-bf9d-13137d7c376e",
+                "0d49376e-9267-580c-9142-7dea20ba9f0b",
+                "04d60972-72f1-5cde-8ce5-536646a1674a",
+                "e2842218-e538-5f9d-9350-5f502a6e88de",
+                "084ba3bd-9f19-5e47-aa6c-315e0fb08a52",
+                "2a730e16-da26-5b2a-a6b3-e7779fe2d134",
+                "092dde8b-7f3e-511e-aaaa-0d2ad06683a4",
+                "4eefe463-0993-5426-bdde-69dab9804d5e",
+                "04e776a4-aa85-54ff-a184-5afc524c699c",
+                "da08cb01-c2cb-529d-8fff-858955529755",
+                "4d3e0394-fb87-5133-b9cb-5ef1729a3f2d",
+                "b96fac29-8090-54b5-a952-4a8128e2234f"
+            ],
+            "subtitle": "",
+            "title": "Burgers - Gourmet",
+            "uuid": "d2bf5a60-6ea8-50af-9878-eada6179868d",
+            "displayType": null
+        }
+    },
+    "menu": {
+        "706449c0-053b-594f-8065-a2a39918f5f5": {
+            "9feb5a30-ed20-50a4-937a-b21fce49dc39": {
+                "description": "Garlic-and-Parmesan-sautéed mushrooms with Swiss.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/64989639-4666-42b9-94b8-11c64a2131ce.jpeg",
+                "price": 1199,
+                "title": "Sautéed 'Shroom Burger",
+                "uuid": "9feb5a30-ed20-50a4-937a-b21fce49dc39",
+                "nutritionalInfo": { "allergens": [""], "displayString": "770 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "2d12cbfe-c2c1-5dc1-9dba-1b0c06a46b94": {
+                "description": "Sweet & Spicy Ketchup",
+                "imageUrl": "",
+                "price": 0,
+                "title": "Sweet & Spicy Ketchup",
+                "uuid": "2d12cbfe-c2c1-5dc1-9dba-1b0c06a46b94",
+                "nutritionalInfo": { "allergens": [""], "displayString": "130 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "4d3e0394-fb87-5133-b9cb-5ef1729a3f2d": {
+                "description": "\"Swiss cheese, crispy onion straws, French Onion spread and tomatoes on a melted Provolone-capped onion bun, topped off with three golden-fried onion rings.\"",
+                "imageUrl": "",
+                "price": 1299,
+                "title": "New! French Onion Ringer - Limited Time Only",
+                "uuid": "4d3e0394-fb87-5133-b9cb-5ef1729a3f2d",
+                "nutritionalInfo": { "allergens": [""], "displayString": "1180 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "632ca60a-93c6-5d48-90e1-2557f6fa325a": {
+                "description": "Roasted Garlic Aioli",
+                "imageUrl": "",
+                "price": 99,
+                "title": "Roasted Garlic Aioli",
+                "uuid": "632ca60a-93c6-5d48-90e1-2557f6fa325a",
+                "nutritionalInfo": { "allergens": [""], "displayString": "410 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "e2842218-e538-5f9d-9350-5f502a6e88de": {
+                "description": "Teriyaki-glazed patty, grilled pineapple, Cheddar, lettuce, tomatoes and mayo.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/0fa0e9e8-ba7c-416e-8fa9-a1cf5c261c10.jpeg",
+                "price": 1139,
+                "title": "Banzai Burger",
+                "uuid": "e2842218-e538-5f9d-9350-5f502a6e88de",
+                "nutritionalInfo": { "allergens": [""], "displayString": "960 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "d5841aab-8b4b-53a3-b96b-49cdd0702b61": {
+                "description": "A wrap or sandwich and a cup of soup.",
+                "imageUrl": "",
+                "price": 1249,
+                "title": "Souper Sandwich Combo",
+                "uuid": "d5841aab-8b4b-53a3-b96b-49cdd0702b61",
+                "nutritionalInfo": {
+                    "allergens": [""],
+                    "displayString": "870 - 1240 Cal."
+                },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "070cd505-d2d0-510c-83cc-4080fa5ae030": {
+                "description": "Salsa",
+                "imageUrl": "",
+                "price": 99,
+                "title": "Salsa",
+                "uuid": "070cd505-d2d0-510c-83cc-4080fa5ae030",
+                "nutritionalInfo": { "allergens": [""], "displayString": "15 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "97298586-29f8-5c5c-9b35-99cbc6ab99e6": {
+                "description": "Sliced chicken breast, Parmesan, romaine, tomatoes and Caesar dressing in a spinach tortilla.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/e70943f3-e386-492e-82aa-b0c76aeca8ea.jpeg",
+                "price": 1119,
+                "title": "Caesar's Chicken Wrap",
+                "uuid": "97298586-29f8-5c5c-9b35-99cbc6ab99e6",
+                "nutritionalInfo": { "allergens": [""], "displayString": "820 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "c65c9c4f-ceb4-5073-9a8c-34c687344399": {
+                "description": "Fresh-Brewed Gold Peak® tea, regular, sweet or flavored with peach or raspberry.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/4601d1d4-b44d-41e0-9847-50f750605ca0.jpeg",
+                "price": 299,
+                "title": "Fresh-brewed Gold Peak® Tea",
+                "uuid": "c65c9c4f-ceb4-5073-9a8c-34c687344399",
+                "nutritionalInfo": {
+                    "allergens": [""],
+                    "displayString": "0 - 180 Cal."
+                },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "7de25338-f824-5d75-9343-66f960644a7f": {
+                "description": "Crispy wings in your choice of sauce: Nashville Hot with fresh pickles• Buzz with Bleu cheese crumbles and carrot sticks• Whiskey River® BBQ with crispy onion straws• Island Heat with grilled pineapple and fresh jalapeño• Banzai with grilled pineapple pieces—on a bed of Yukon kettle chips.",
+                "imageUrl": "",
+                "price": 900,
+                "title": "Bar Wings 'N' Yukon Chips",
+                "uuid": "7de25338-f824-5d75-9343-66f960644a7f",
+                "nutritionalInfo": {
+                    "allergens": [""],
+                    "displayString": "1200 - 1280 Cal."
+                },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "2464a793-f9a4-5233-b86c-f881e4c45a8b": {
+                "description": "Side House Salad",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/1456dd58-3835-4262-bd68-7ebe99e62aa2.jpeg",
+                "price": 499,
+                "title": "Side House Salad",
+                "uuid": "2464a793-f9a4-5233-b86c-f881e4c45a8b",
+                "nutritionalInfo": { "allergens": [""], "displayString": "100 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "03d7ca15-abe1-5fdc-88fa-b4343f3a2f87": {
+                "description": "Hardwood-smoked bacon, lettuce, tomatoes, mayo and choice of cheese.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/04f4dc13-2d85-487a-9169-06746bcabc1d.jpeg",
+                "price": 1219,
+                "title": "Bacon Cheeseburger",
+                "uuid": "03d7ca15-abe1-5fdc-88fa-b4343f3a2f87",
+                "nutritionalInfo": {
+                    "allergens": [""],
+                    "displayString": "960 - 1020 Cal."
+                },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "a33f4858-864d-557b-be6e-96a2f83794b4": {
+                "description": "The Drinkable Dessert! Barq’s® and soft serve.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/773c8a6f-99f4-4393-90ba-a87d8aadc5c0.jpeg",
+                "price": 499,
+                "title": "Root Beer Float",
+                "uuid": "a33f4858-864d-557b-be6e-96a2f83794b4",
+                "nutritionalInfo": { "allergens": [""], "displayString": "580 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "95e9faa2-7308-5636-9ecd-310b07ffe3cc": {
+                "description": "Buzzard Sauce",
+                "imageUrl": "",
+                "price": 0,
+                "title": "Buzzard Sauce",
+                "uuid": "95e9faa2-7308-5636-9ecd-310b07ffe3cc",
+                "nutritionalInfo": { "allergens": [""], "displayString": "140 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "93ff1365-3621-5031-96d3-193d4c33a14e": {
+                "description": "Grilled chicken breast, romaine lettuce, croutons and shredded Parmesan with Caesar dressing.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/20a52cb4-574f-4317-acf7-a1c36c07c05d.jpeg",
+                "price": 1069,
+                "title": "Mighty Caesar Salad",
+                "uuid": "93ff1365-3621-5031-96d3-193d4c33a14e",
+                "nutritionalInfo": { "allergens": [""], "displayString": "660 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "76ff4d5e-1101-503d-b350-d1b059474db6": {
+                "description": "Gourmet steak sauce, Bleu cheese crumbles, crispy onion straws, lettuce, tomatoes and chipotle aioli on an onion bun.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/cb1a374d-5ff6-41ac-8339-bb0f04229307.jpeg",
+                "price": 1259,
+                "title": "Bleu Ribbon Burger",
+                "uuid": "76ff4d5e-1101-503d-b350-d1b059474db6",
+                "nutritionalInfo": { "allergens": [""], "displayString": "1140 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "a286e303-9a4e-5f9e-b144-9eebab9aa6fb": {
+                "description": "Sliced turkey breast, hardwood-smoked bacon, avocado, lettuce, tomatoes and mayo on a croissant.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/5e6ce043-af8e-497f-b2f8-c166251a9753.jpeg",
+                "price": 1169,
+                "title": "BLTA Croissant",
+                "uuid": "a286e303-9a4e-5f9e-b144-9eebab9aa6fb",
+                "nutritionalInfo": { "allergens": [""], "displayString": "680 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "115a0793-f4bd-5015-91a3-f18ac452b5ce": {
+                "description": "Topped with melted Provolone and Parmesan.",
+                "imageUrl": "",
+                "price": 349,
+                "title": "French Onion Soup",
+                "uuid": "115a0793-f4bd-5015-91a3-f18ac452b5ce",
+                "nutritionalInfo": {
+                    "allergens": [""],
+                    "displayString": "170 - 340 Cal."
+                },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "d6a3bcfd-ea13-5971-93d3-5acbf0cb4f52": {
+                "description": "Bite-sized strips of grilled chicken breast with a side of dipping sauce.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/574cb833-e933-4000-ba77-81684d37225e.jpeg",
+                "price": 499,
+                "title": "Grilled Chicken Dip'ns",
+                "uuid": "d6a3bcfd-ea13-5971-93d3-5acbf0cb4f52",
+                "nutritionalInfo": {
+                    "allergens": [""],
+                    "displayString": "130 - 390 Cal."
+                },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "3aeb6fb4-544e-555d-b1c6-cea34542ae84": {
+                "description": "Pickles, red onions, lettuce, tomatoes and mayo.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/abb31cbd-c3ed-4ce2-8d0c-75e52b9dcd12.jpeg",
+                "price": 1149,
+                "title": "Crispy Chicken Burger",
+                "uuid": "3aeb6fb4-544e-555d-b1c6-cea34542ae84",
+                "nutritionalInfo": { "allergens": [""], "displayString": "920 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "4b7fd6f9-9276-5b82-ace9-ec76d036aed4": {
+                "description": "Side Steak Fries",
+                "imageUrl": "",
+                "price": 299,
+                "title": "Side Steak Fries",
+                "uuid": "4b7fd6f9-9276-5b82-ace9-ec76d036aed4",
+                "nutritionalInfo": { "allergens": [""], "displayString": "350 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "8500ac88-dcc7-58b8-b971-946c380c0a06": {
+                "description": "Sautéed and blackened portobello mushrooms, caramelized onions, creamy cheese sauce, Bleu cheese crumbles, shredded romaine and roasted garlic aioli on a toasted brioche bun.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/bad04595-3927-409c-a354-609b730c7b1d.jpeg",
+                "price": 1379,
+                "title": "Black & Bleu Burger",
+                "uuid": "8500ac88-dcc7-58b8-b971-946c380c0a06",
+                "nutritionalInfo": { "allergens": [""], "displayString": "890 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "49df8f11-9428-56ba-8538-417eba807c1e": {
+                "description": "A bowl of soup and a house salad with choice of dressing or traditional Caesar salad.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/9a7a6324-c944-4704-ab38-bb4c5f78bba9.jpeg",
+                "price": 989,
+                "title": "Soup & Salad Combo",
+                "uuid": "49df8f11-9428-56ba-8538-417eba807c1e",
+                "nutritionalInfo": {
+                    "allergens": [""],
+                    "displayString": "440 - 520 Cal."
+                },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "2217a0ef-5fea-5ed7-b4a5-0bd3448c92c5": {
+                "description": "Tart and sweet prickly pear lemonade.",
+                "imageUrl": "",
+                "price": 449,
+                "title": "Poppin' Purple Lemonade",
+                "uuid": "2217a0ef-5fea-5ed7-b4a5-0bd3448c92c5",
+                "nutritionalInfo": { "allergens": [""], "displayString": "190 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "afcbb98d-bd3d-561a-82b6-197f9790e4bc": {
+                "description": "House-made guac, hardwood-smoked bacon, Provolone, pickles, lettuce, tomatoes and mayo.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/81e6ebe8-34c8-409a-9396-2bc275fa813a.jpeg",
+                "price": 1249,
+                "title": "California Chicken Burger",
+                "uuid": "afcbb98d-bd3d-561a-82b6-197f9790e4bc",
+                "nutritionalInfo": { "allergens": [""], "displayString": "720 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "c88db69c-a75e-50a2-a950-f0cee012c998": {
+                "description": "Hand-battered cod fillets and fried shrimp. Served with Steak Fries, cocktail sauce and Dill’d & Pickl’d Tartar Sauce.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/59f08b1a-3697-43d4-9fe2-5a33de48b8f0.jpeg",
+                "price": 1499,
+                "title": "Shrimp & Cod Duo",
+                "uuid": "c88db69c-a75e-50a2-a950-f0cee012c998",
+                "nutritionalInfo": { "allergens": [""], "displayString": "1420 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "092dde8b-7f3e-511e-aaaa-0d2ad06683a4": {
+                "description": "Two Gourmet patties, your choice of cheese, red onions, relish, pickles, lettuce, tomatoes and mayo.",
+                "imageUrl": "",
+                "price": 1449,
+                "title": "Monster Burger",
+                "uuid": "092dde8b-7f3e-511e-aaaa-0d2ad06683a4",
+                "nutritionalInfo": {
+                    "allergens": [""],
+                    "displayString": "1150 - 1280 Cal."
+                },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "6236200f-8e1c-5e5e-b583-815063ccfa10": {
+                "description": "Two classic patties topped with American cheese, Campfire Mayo and onion straws. \"Two classic patties topped with American cheese, Campfire Mayo and crispy onion straws. Available for upgrade to the Big Tavern!\"",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/61d60e8d-ad88-492a-89d7-7fd5bddcc8a7.jpeg",
+                "price": 699,
+                "title": "Haystack Tavern Double™",
+                "uuid": "6236200f-8e1c-5e5e-b583-815063ccfa10",
+                "nutritionalInfo": { "allergens": [""], "displayString": "680 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "a5d80807-f7a2-5cc0-8f35-a19b399c4264": {
+                "description": "Peach, raspberry iced tea or lemonade.",
+                "imageUrl": "",
+                "price": 299,
+                "title": "Under 15 Calories (Flavored Tea and Lemonade)",
+                "uuid": "a5d80807-f7a2-5cc0-8f35-a19b399c4264",
+                "nutritionalInfo": {
+                    "allergens": [""],
+                    "displayString": "0 - 15 Cal."
+                },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "acb90c1d-0b39-51e6-9ba1-cd266baf5a01": {
+                "description": "Two ancho-grilled chicken breasts, house-made salsa and salsa-ranch dressing. Served with mixed greens with Cheddar, tomatoes and tortilla strips.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/474e47c3-ab01-45f9-bdd2-dc2cb6cb8743.jpeg",
+                "price": 1369,
+                "title": "Ensenada Chicken™ Platter",
+                "uuid": "acb90c1d-0b39-51e6-9ba1-cd266baf5a01",
+                "nutritionalInfo": { "allergens": [""], "displayString": "490 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "7542c4ac-18c9-5858-9a4b-8298f644be56": {
+                "description": "Smoke & Pepper™ Ketchup",
+                "imageUrl": "",
+                "price": 99,
+                "title": "Smoke & Pepper™ Ketchup",
+                "uuid": "7542c4ac-18c9-5858-9a4b-8298f644be56",
+                "nutritionalInfo": { "allergens": [""], "displayString": "110 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "60e75f27-9414-5470-ab9a-fade646d70de": {
+                "description": "House-made guac, hardwood-smoked bacon, Swiss, red onions, lettuce, tomatoes and mayo.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/7175697e-6685-4275-aea6-390d7e0a42d2.jpeg",
+                "price": 1249,
+                "title": "Guacamole Bacon Burger",
+                "uuid": "60e75f27-9414-5470-ab9a-fade646d70de",
+                "nutritionalInfo": { "allergens": [""], "displayString": "930 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "0cc27cf7-1b46-5e2a-96c7-bb6e642a2ad6": {
+                "description": "Lightly blackened 6-oz. salmon fillet served with bruschetta salsa and steamed broccoli.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/5b82b11b-c708-4660-b97c-a25c0e41571d.jpeg",
+                "price": 1469,
+                "title": "Sear-ious Salmon",
+                "uuid": "0cc27cf7-1b46-5e2a-96c7-bb6e642a2ad6",
+                "nutritionalInfo": { "allergens": [""], "displayString": "520 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "984a1308-5a61-5419-8814-fdfa85cf68a9": {
+                "description": "Big Cowboy Ranch Tavern",
+                "imageUrl": "",
+                "price": 1049,
+                "title": "Big Cowboy Ranch Tavern",
+                "uuid": "984a1308-5a61-5419-8814-fdfa85cf68a9",
+                "nutritionalInfo": { "allergens": [""], "displayString": "810 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "8966bc4b-a6b1-5a93-a3c6-e7c1601cb8b1": {
+                "description": "Beef or a custom-blended, ancient-grain-and-quinoa veggie patty, pickles, red onions, lettuce and tomatoes.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/a02b837e-b43d-4283-8794-bf9784d73818.jpeg",
+                "price": 1049,
+                "title": "Keep It Simple Burger",
+                "uuid": "8966bc4b-a6b1-5a93-a3c6-e7c1601cb8b1",
+                "nutritionalInfo": {
+                    "allergens": [""],
+                    "displayString": "370 - 530 Cal."
+                },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "21ea7f20-5acf-5592-b8de-79fad65246f6": {
+                "description": "Side Steamed Broccoli",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/ddc4bd02-3c0e-44c6-89f2-516b6cf41e5d.jpeg",
+                "price": 149,
+                "title": "Side Steamed Broccoli",
+                "uuid": "21ea7f20-5acf-5592-b8de-79fad65246f6",
+                "nutritionalInfo": { "allergens": [""], "displayString": "30 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "fb063c57-bc7a-5207-8330-db6290dc8f80": {
+                "description": "",
+                "imageUrl": "",
+                "price": 0,
+                "title": "Island Heat Sauce",
+                "uuid": "fb063c57-bc7a-5207-8330-db6290dc8f80",
+                "nutritionalInfo": { "allergens": [""], "displayString": "130 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "9be17c8b-08d0-5955-aeb7-d2fc2dae3ef2": {
+                "description": "Side Mac 'N' Cheese",
+                "imageUrl": "",
+                "price": 299,
+                "title": "Side Mac 'N' Cheese",
+                "uuid": "9be17c8b-08d0-5955-aeb7-d2fc2dae3ef2",
+                "nutritionalInfo": { "allergens": [""], "displayString": "290 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "c0a58fd2-9e10-55f3-8b42-9c8d82870d1d": {
+                "description": "Chilled, dark-chocolate-dipped fudge brownies with French sea salt, sugar crystals and berry sauce.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/0bb0de64-9978-4dc6-9386-d0dcdfe9863f.jpeg",
+                "price": 599,
+                "title": "Chocolate Fruffles™",
+                "uuid": "c0a58fd2-9e10-55f3-8b42-9c8d82870d1d",
+                "nutritionalInfo": { "allergens": [""], "displayString": "830 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "c487ebbe-6c49-596a-9cf0-0ddf61fce5c2": {
+                "description": "Bleu Cheese Dressing",
+                "imageUrl": "",
+                "price": 0,
+                "title": "Bleu Cheese Dressing",
+                "uuid": "c487ebbe-6c49-596a-9cf0-0ddf61fce5c2",
+                "nutritionalInfo": { "allergens": [""], "displayString": "320 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "ef4e4c7f-20d2-5202-9c6e-c58f7645733c": {
+                "description": "Sweet and salty deliciousness.",
+                "imageUrl": "",
+                "price": 399,
+                "title": "Salted Caramel Milkshake",
+                "uuid": "ef4e4c7f-20d2-5202-9c6e-c58f7645733c",
+                "nutritionalInfo": {
+                    "allergens": [""],
+                    "displayString": "650 - 1190 Cal."
+                },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "0b05a02c-9a19-52e4-b015-206b74d152f8": {
+                "description": "Two classic patties topped with brown-sugar-glazed patties topped with hardwood-smoked bacon, lettuce, tomato, bacon crumbles, American cheese and mayo.\nAvailable for upgrade to the Big Tavern!",
+                "imageUrl": "",
+                "price": 949,
+                "title": "Pig Out Tavern Double",
+                "uuid": "0b05a02c-9a19-52e4-b015-206b74d152f8",
+                "nutritionalInfo": { "allergens": [""], "displayString": "790 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "750a6930-f56e-5919-9ab4-398f522e0c98": {
+                "description": "Chicken tenders, hard-boiled eggs, hardwood-smoked bacon crumbles, tomatoes, croutons and Cheddar on mixed greens. Served with choice of dressing.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/73832bcd-15c0-42f5-b7ab-fe076d03be69.jpeg",
+                "price": 1199,
+                "title": "Crispy Chicken Tender Salad",
+                "uuid": "750a6930-f56e-5919-9ab4-398f522e0c98",
+                "nutritionalInfo": { "allergens": [""], "displayString": "910 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "c811ed5b-69be-5b9b-8dcd-c572ad3c7b41": {
+                "description": "Whiskey River® BBQ Sauce, Cheddar, crispy onion stAraws, lettuce, tomatoes and mayo.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/e7fd0a96-ca2d-427e-95d9-8141cb31b7fa.jpeg",
+                "price": 1199,
+                "title": "Whiskey River® BBQ Chicken Burger",
+                "uuid": "c811ed5b-69be-5b9b-8dcd-c572ad3c7b41",
+                "nutritionalInfo": { "allergens": [""], "displayString": "970 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "e09e086b-3eda-5f04-a42f-5131d7fc1e7f": {
+                "description": "Candied orange and Sprite® topped with whipped cream.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/f1793841-d064-4120-87b2-8ce77bbcf670.jpeg",
+                "price": 379,
+                "title": "Orange Cream Soda",
+                "uuid": "e09e086b-3eda-5f04-a42f-5131d7fc1e7f",
+                "nutritionalInfo": { "allergens": [""], "displayString": "210 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "ffb4b0a7-72f3-56cc-a8b8-80324a70a9bb": {
+                "description": "Chocolate hazelnut spread and cocoa crisp deliciousness. Topped with chocolate whipped cream, cocoa crisps and Chocolate Fruffles®.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/4ef19572-b8ac-4535-a245-adfbdff672a0.jpeg",
+                "price": 599,
+                "title": "Chocolate Hazelnut Bliss Milkshake",
+                "uuid": "ffb4b0a7-72f3-56cc-a8b8-80324a70a9bb",
+                "nutritionalInfo": { "allergens": [""], "displayString": "1290 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "c6a0908b-9a87-5a02-96d8-0570ac0ca4ac": {
+                "description": "Our spin on a classic grilled cheese with Swiss, Provolone and Cheddar melted over rustic Italian bread and topped with Parmesan-and-Cheddar crisp.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/0b9185fe-188e-435f-8de8-e1124cd795b1.jpeg",
+                "price": 849,
+                "title": "Four Cheese Melt",
+                "uuid": "c6a0908b-9a87-5a02-96d8-0570ac0ca4ac",
+                "nutritionalInfo": { "allergens": [""], "displayString": "730 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "893c3d7a-208e-5b38-bdc0-5fc9b39f35c8": {
+                "description": "Bear claw pretzel bites tossed in a garlic parmesan spread and topped with shredded parmesan cheese. Served with roasted garlic aioli.",
+                "imageUrl": "",
+                "price": 500,
+                "title": "NEW! Garlic Parmesan Pretzel Bites - Limited Time Only",
+                "uuid": "893c3d7a-208e-5b38-bdc0-5fc9b39f35c8",
+                "nutritionalInfo": { "allergens": [""], "displayString": "1160 Cal." },
+                "suspendReason": "",
+                "suspendUntil": 8640000000,
+                "classifications": []
+            },
+            "af710516-2f96-53ad-ae20-5ee0d58d7cc9": {
+                "description": "A mountain of chocolate and vanilla ice cream, layered with OREO® cookies, fudge, caramel and whipped cream.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/bf2364d8-fa6b-421d-ae27-f40e82dfe4ec.jpeg",
+                "price": 749,
+                "title": "Mountain High Mudd Pie",
+                "uuid": "af710516-2f96-53ad-ae20-5ee0d58d7cc9",
+                "nutritionalInfo": { "allergens": [""], "displayString": "1360 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "1aec302c-39c7-5927-a66e-c345319b41b3": {
+                "description": "Big Smoky Jack Tavern",
+                "imageUrl": "",
+                "price": 1049,
+                "title": "Big Smoky Jack Tavern",
+                "uuid": "1aec302c-39c7-5927-a66e-c345319b41b3",
+                "nutritionalInfo": { "allergens": [""], "displayString": "930 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "41ecdaae-28ef-5d38-b2ce-d60232ead1d3": {
+                "description": "Chipotle Aioli",
+                "imageUrl": "",
+                "price": 99,
+                "title": "Chipotle Aioli",
+                "uuid": "41ecdaae-28ef-5d38-b2ce-d60232ead1d3",
+                "nutritionalInfo": { "allergens": [""], "displayString": "410 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "57886dae-86b8-5253-959d-63251c739332": {
+                "description": "",
+                "imageUrl": "",
+                "price": 350,
+                "title": "Impossible™ Patty",
+                "uuid": "57886dae-86b8-5253-959d-63251c739332",
+                "nutritionalInfo": { "allergens": [""], "displayString": "" },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "f62257f1-e47b-59aa-bf9d-13137d7c376e": {
+                "description": "\"Our custom-blended, ancient-grain-and-quinoa veggie patty is piled high with Swiss cheese, tomato bruschetta salsa, fresh avocado slices, roasted garlic aioli and shredded romaine on a multigrain bun. Served with Steamed Broccoli. Make it Vegan! Lose the cheese, garlic aioli and choose a lettuce bun.\"",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/9e67efb3-1623-48da-aa1a-b0511465dadb.jpeg",
+                "price": 1099,
+                "title": "Veggie Burger",
+                "uuid": "f62257f1-e47b-59aa-bf9d-13137d7c376e",
+                "nutritionalInfo": { "allergens": [""], "displayString": "860 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "b4bf343c-dd93-5036-bb72-1912b6fad583": {
+                "description": "Poppyseed-Honey Mustard",
+                "imageUrl": "",
+                "price": 0,
+                "title": "Poppyseed-Honey Mustard",
+                "uuid": "b4bf343c-dd93-5036-bb72-1912b6fad583",
+                "nutritionalInfo": { "allergens": [""], "displayString": "350 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "e3cd1d9b-a336-5229-9838-e1c234727891": {
+                "description": "Side Yukon Chips",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/660a03d6-4afb-4f57-9a10-8d08590ca9af.jpeg",
+                "price": 149,
+                "title": "Side Yukon Chips",
+                "uuid": "e3cd1d9b-a336-5229-9838-e1c234727891",
+                "nutritionalInfo": { "allergens": [""], "displayString": "490 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "aa1599de-5124-5ca3-93e1-a35f051e7164": {
+                "description": "",
+                "imageUrl": "",
+                "price": 99,
+                "title": "Bistro Sauce",
+                "uuid": "aa1599de-5124-5ca3-93e1-a35f051e7164",
+                "nutritionalInfo": { "allergens": [""], "displayString": "140 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "818a2182-7de9-505c-a81a-0bbe2c3f055a": {
+                "description": "Warm, soft, salty bear claw pretzel bites and New Belgium® Fat Tire® beer cheese.",
+                "imageUrl": "",
+                "price": 500,
+                "title": "Pretzel Bites",
+                "uuid": "818a2182-7de9-505c-a81a-0bbe2c3f055a",
+                "nutritionalInfo": { "allergens": [""], "displayString": "810 Cal." },
+                "suspendReason": "",
+                "suspendUntil": 8640000000,
+                "classifications": []
+            },
+            "ad45077e-0e9f-5eaa-b11e-a054580f42e5": {
+                "description": "Red’s Secret Tavern Sauce™",
+                "imageUrl": "",
+                "price": 0,
+                "title": "Red’s Secret Tavern Sauce™",
+                "uuid": "ad45077e-0e9f-5eaa-b11e-a054580f42e5",
+                "nutritionalInfo": { "allergens": [""], "displayString": "190 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "fa51c0d0-b50b-56da-8fe0-e34ed10fc8c0": {
+                "description": "Pepperoni Pizza",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/2cc83758-bac5-4360-8ec7-2c3b37ca8c50.jpeg",
+                "price": 519,
+                "title": "M.V.P.IZZA - Pepperoni",
+                "uuid": "fa51c0d0-b50b-56da-8fe0-e34ed10fc8c0",
+                "nutritionalInfo": { "allergens": [""], "displayString": "530 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "800d857a-0a95-5863-8eaf-297c4c51ae30": {
+                "description": "Pepper-Jack, A.1.® Peppercorn Spread, hardwood-smoked bacon, tomatoes and crispy onion straws on an onion bun.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/beb39495-b989-4da2-95e3-0d1396fe4100.jpeg",
+                "price": 1269,
+                "title": "A.1.® Peppercorn Burger",
+                "uuid": "800d857a-0a95-5863-8eaf-297c4c51ae30",
+                "nutritionalInfo": { "allergens": [""], "displayString": "1100 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "f423fc1e-41b7-5391-a4d6-9f791a35b5f8": {
+                "description": "3 breaded chicken tenders.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/12e5aec9-6e24-4786-994e-e4f78912ef3e.jpeg",
+                "price": 599,
+                "title": "Cluck-A-Doodles",
+                "uuid": "f423fc1e-41b7-5391-a4d6-9f791a35b5f8",
+                "nutritionalInfo": { "allergens": [""], "displayString": "540 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "54aab0b6-3328-5134-b7a5-624bdfc49ef4": {
+                "description": "9 battered corn-dog bites.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/f08b63ad-230a-4d40-b5c2-10780192d6ad.jpeg",
+                "price": 599,
+                "title": "Corn Doggies",
+                "uuid": "54aab0b6-3328-5134-b7a5-624bdfc49ef4",
+                "nutritionalInfo": { "allergens": [""], "displayString": "530 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "32642780-1291-5172-b0c6-19f0ba781408": {
+                "description": "Eight cinnamon and sugar croissant donut rings served with caramel and fudge.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/d1255f9a-df2d-4239-bf5b-8c546c7ef145.jpeg",
+                "price": 949,
+                "title": "Cinnamon Sugar Doh! Rings®",
+                "uuid": "32642780-1291-5172-b0c6-19f0ba781408",
+                "nutritionalInfo": { "allergens": [""], "displayString": "1550 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "8500af0f-74cf-5060-a960-42c139e4d292": {
+                "description": "Ancho-grilled chicken breast, black beans, avocado, fried jalapeño coins, tomatoes, onions, corn, shredded Cheddar cheese, lime and tortilla strips on mixed greens. Served with salsa-ranch dressing on the side.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/b162e6c8-c675-4f85-aa53-d45f4cc57c4f.jpeg",
+                "price": 1099,
+                "title": "Southwest Salad",
+                "uuid": "8500af0f-74cf-5060-a960-42c139e4d292",
+                "nutritionalInfo": { "allergens": [""], "displayString": "910 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "0fc6f99b-c990-5992-b44d-db29a4c2a269": {
+                "description": "Chicken tenders and Steak Fries with ranch.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/ff5546aa-e6ff-4ed7-978d-0ec2aeb14207.jpeg",
+                "price": 1189,
+                "title": "Clucks & Fries®",
+                "uuid": "0fc6f99b-c990-5992-b44d-db29a4c2a269",
+                "nutritionalInfo": { "allergens": [""], "displayString": "1330 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "cd7ae660-13d2-5f19-9a24-3052ee3150b0": {
+                "description": "",
+                "imageUrl": "",
+                "price": 0,
+                "title": "NEW! Sweet & Spicy Ketchup",
+                "uuid": "cd7ae660-13d2-5f19-9a24-3052ee3150b0",
+                "nutritionalInfo": { "allergens": [""], "displayString": "" },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "416e6d37-29d3-5c15-96b2-f58c4d40bfbe": {
+                "description": "Chicken and vegetables with Cheddar, sour cream and tortilla strips.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/9f3f95ac-16ea-4678-bfa9-38a2d92a9035.jpeg",
+                "price": 349,
+                "title": "Chicken Tortilla Soup",
+                "uuid": "416e6d37-29d3-5c15-96b2-f58c4d40bfbe",
+                "nutritionalInfo": {
+                    "allergens": [""],
+                    "displayString": "200 - 390 Cal."
+                },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "0d49376e-9267-580c-9142-7dea20ba9f0b": {
+                "description": "Whiskey River® BBQ Sauce, crispy onion straws, Cheddar, lettuce, tomatoes and mayo.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/62e800f7-a177-4c41-b6a6-210412ba6578.jpeg",
+                "price": 1199,
+                "title": "Whiskey River® BBQ Burger",
+                "uuid": "0d49376e-9267-580c-9142-7dea20ba9f0b",
+                "nutritionalInfo": { "allergens": [""], "displayString": "1130 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "83886711-2d9f-5678-aab7-88639487e263": {
+                "description": "Jalapeño Ranch",
+                "imageUrl": "",
+                "price": 0,
+                "title": "Jalapeño Ranch",
+                "uuid": "83886711-2d9f-5678-aab7-88639487e263",
+                "nutritionalInfo": { "allergens": [""], "displayString": "260 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "7e378f30-ff13-58aa-ad8a-3cb896cd9b7c": {
+                "description": "Swirly noodles served with marinara sauce and topped with Parmesan cheese.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/f0956ff9-5a02-4aec-adcc-804c06113323.jpeg",
+                "price": 599,
+                "title": "Swirly Twirly Pasta",
+                "uuid": "7e378f30-ff13-58aa-ad8a-3cb896cd9b7c",
+                "nutritionalInfo": { "allergens": [""], "displayString": "370 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "a17144f9-ec3d-52a4-acc1-0e8d0999662e": {
+                "description": "Choose from chocolate, vanilla, strawberry, banana, or raspberry.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/032891f3-f9d9-4b69-b0ce-e1450f95458f.jpeg",
+                "price": 399,
+                "title": "Favorite Flavors Milkshake",
+                "uuid": "a17144f9-ec3d-52a4-acc1-0e8d0999662e",
+                "nutritionalInfo": {
+                    "allergens": [""],
+                    "displayString": "500 - 1020 Cal."
+                },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "2a3d9cc5-edb4-5a1c-abf5-af81a31f8c55": {
+                "description": "Grilled chicken breast, hardwood-smoked bacon, Bleu cheese crumbles, hard-boiled eggs, tomatoes, croutons and avocado on mixed greens. Served with choice of dressing.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/380dc886-e149-4796-83c0-e0d186f66cbe.jpeg",
+                "price": 1179,
+                "title": "Avo-Cobb-O Salad",
+                "uuid": "2a3d9cc5-edb4-5a1c-abf5-af81a31f8c55",
+                "nutritionalInfo": { "allergens": [""], "displayString": "520 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "fe720d0b-92f8-5810-9131-92d4c78dd39e": {
+                "description": "\"Two classic patties topped with ranch, Whiskey River® BBQ Sauce, crispy onion straws, American cheese and lettuce. Available for upgrade to the Big Tavern!\"Available for upgrade to the Big Tavern!",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/41f5f36c-014b-4dd6-9f23-3f644322fb6b.jpeg",
+                "price": 799,
+                "title": "Cowboy Ranch Tavern Double™",
+                "uuid": "fe720d0b-92f8-5810-9131-92d4c78dd39e",
+                "nutritionalInfo": { "allergens": [""], "displayString": "660 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "2ab8f176-5f70-5d29-9fe5-eb3e08cffd32": {
+                "description": "\"Beef, grilled chicken, turkey or veggie patty with American cheese. Lettuce, tomatoes and pickles on the side. Substitute a Gluten-Free bun for $1.49.\"",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/7fb3df0f-09a9-4b33-b6f8-e7ad7b8b6ec4.jpeg",
+                "price": 599,
+                "title": "Red's Cheeseburger",
+                "uuid": "2ab8f176-5f70-5d29-9fe5-eb3e08cffd32",
+                "nutritionalInfo": {
+                    "allergens": [""],
+                    "displayString": "340 - 450 Cal."
+                },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "eab3c5b1-6e3c-53cd-bad5-05068052af57": {
+                "description": "Topped with red onions and Parmesan cheese. Served with carrot sticks and sea salted tortilla chips.",
+                "imageUrl": "",
+                "price": 700,
+                "title": "Creamy Artichoke and Spinach Dip",
+                "uuid": "eab3c5b1-6e3c-53cd-bad5-05068052af57",
+                "nutritionalInfo": { "allergens": [""], "displayString": "820 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "88f2bdc7-c510-54d3-bc2a-5af86dbe107b": {
+                "description": "Steak fries with Red’s Chili Chili™, cheese, bacon crumbles, jalapeños and ranch.",
+                "imageUrl": "",
+                "price": 700,
+                "title": "Chili Chili™ Cheese Fries",
+                "uuid": "88f2bdc7-c510-54d3-bc2a-5af86dbe107b",
+                "nutritionalInfo": { "allergens": [""], "displayString": "1540 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "081e8fe4-441a-598b-8011-f9d672a78159": {
+                "description": "\"Our famous blend of Minute Maid® Lemonade and strawberries. Available with Minute Maid® Light Lemonade.\"",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/b18da708-3490-4836-9d98-c68fe5f7ec85.jpeg",
+                "price": 449,
+                "title": "Freckled Lemonade®",
+                "uuid": "081e8fe4-441a-598b-8011-f9d672a78159",
+                "nutritionalInfo": {
+                    "allergens": [""],
+                    "displayString": "90 - 150 Cal."
+                },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "c0b96571-8577-568b-a154-b6aa530f91c6": {
+                "description": "Side Garlic Fries",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/e387639e-a1fe-4821-b119-a9cdfb107838.jpeg",
+                "price": 299,
+                "title": "Garlic Fries",
+                "uuid": "c0b96571-8577-568b-a154-b6aa530f91c6",
+                "nutritionalInfo": { "allergens": [""], "displayString": "430 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "f53a52a6-d0d1-5832-a865-c4f4870d2bea": {
+                "description": "Sea salted tortilla chips loaded with Red’s Chili Chili™, two cheeses, house-made guacamole and salsa, tomatoes, diced red onion and sour cream.Sprinkled with cilantro.",
+                "imageUrl": "",
+                "price": 900,
+                "title": "NachO.M.G™",
+                "uuid": "f53a52a6-d0d1-5832-a865-c4f4870d2bea",
+                "nutritionalInfo": { "allergens": [""], "displayString": "1390 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "b68a61f4-8b3e-59f5-9838-bfa2cbef914f": {
+                "description": "Side Traditional Caesar",
+                "imageUrl": "",
+                "price": 499,
+                "title": "Side Traditional Caesar",
+                "uuid": "b68a61f4-8b3e-59f5-9838-bfa2cbef914f",
+                "nutritionalInfo": { "allergens": [""], "displayString": "210 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "718f9157-f568-5ea4-8121-55abfd0b5632": {
+                "description": "Brown sugar glaze, candied bacon, Whiskey River® BBQ Sauce, extra-sharp Cheddar, caramelized onions, shredded romaine and mayo on a toasted brioche bun.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/270c13c3-e302-49bc-ac3b-b8eececb7a72.jpeg",
+                "price": 1349,
+                "title": "The Southern Charm Burger™",
+                "uuid": "718f9157-f568-5ea4-8121-55abfd0b5632",
+                "nutritionalInfo": { "allergens": [""], "displayString": "1140 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "461b736e-21cf-5757-80ab-56e80427bd43": {
+                "description": "Pick 2 golden-fried faves: Zucchini Fries •Jalapeño Coins • Cheese Sticks • Sweet Potato Fries",
+                "imageUrl": "",
+                "price": 700,
+                "title": "Jump Starter Double",
+                "uuid": "461b736e-21cf-5757-80ab-56e80427bd43",
+                "nutritionalInfo": {
+                    "allergens": [""],
+                    "displayString": "410 - 560 Cal."
+                },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "cd2a2a92-9e4e-54dc-9cc4-8d47c02ca8ad": {
+                "description": "House-Made Ranch Dressing",
+                "imageUrl": "",
+                "price": 0,
+                "title": "House-Made Ranch Dressing",
+                "uuid": "cd2a2a92-9e4e-54dc-9cc4-8d47c02ca8ad",
+                "nutritionalInfo": { "allergens": [""], "displayString": "260 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "ba40adbf-654b-5614-ac45-f8d4bb27a102": {
+                "description": "Side Sweet Potato Fries",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/ce61b3cd-94da-4841-adaf-2b36e774cecc.jpeg",
+                "price": 299,
+                "title": "Side Sweet Potato Fries",
+                "uuid": "ba40adbf-654b-5614-ac45-f8d4bb27a102",
+                "nutritionalInfo": { "allergens": [""], "displayString": "460 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "23de5a3a-4f33-5221-b6b9-9451b9dfc591": {
+                "description": "Macaroni & creamy cheese sauce.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/e7f1011b-f31e-434c-a32f-ccd3425701ae.jpeg",
+                "price": 499,
+                "title": "Mac It Yours",
+                "uuid": "23de5a3a-4f33-5221-b6b9-9451b9dfc591",
+                "nutritionalInfo": { "allergens": [""], "displayString": "380 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "fe0ae2c4-e07f-517b-ae76-2852fda9f67d": {
+                "description": "Real lemon juice, strawberries, soft serve and strawberry purèe.",
+                "imageUrl": "",
+                "price": 449,
+                "title": "Freckled Lemonade® Smoothie",
+                "uuid": "fe0ae2c4-e07f-517b-ae76-2852fda9f67d",
+                "nutritionalInfo": { "allergens": [""], "displayString": "360 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "1d4f0f13-ea14-5d1c-a041-5d872044aa23": {
+                "description": "Caesar Dressing",
+                "imageUrl": "",
+                "price": 0,
+                "title": "Caesar Dressing",
+                "uuid": "1d4f0f13-ea14-5d1c-a041-5d872044aa23",
+                "nutritionalInfo": { "allergens": [""], "displayString": "360 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "219a931a-0ee6-5ebd-8869-7dae0cbe244b": {
+                "description": "Coca-Cola® products.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/bba413ca-c494-4160-bf4b-b985d66ecf8a.jpeg",
+                "price": 299,
+                "title": "Soft Drinks",
+                "uuid": "219a931a-0ee6-5ebd-8869-7dae0cbe244b",
+                "nutritionalInfo": {
+                    "allergens": [""],
+                    "displayString": "0 - 130 Cal."
+                },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "2364cc43-5482-51f5-87c6-394d1addad3c": {
+                "description": "Six crispy onion rings served with Campfire Mayo and ranch.",
+                "imageUrl": "",
+                "price": 500,
+                "title": "The O-Ring Shorty®",
+                "uuid": "2364cc43-5482-51f5-87c6-394d1addad3c",
+                "nutritionalInfo": { "allergens": [""], "displayString": "910 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "138b6cac-9caa-519f-9261-20432b3d363d": {
+                "description": "",
+                "imageUrl": "",
+                "price": 149,
+                "title": "Side Carrot Sticks",
+                "uuid": "138b6cac-9caa-519f-9261-20432b3d363d",
+                "nutritionalInfo": { "allergens": [""], "displayString": "15 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "0f8f66d5-a221-56ab-a895-599834d594e6": {
+                "description": "Big Haystack Tavern",
+                "imageUrl": "",
+                "price": 949,
+                "title": "Big Haystack Tavern",
+                "uuid": "0f8f66d5-a221-56ab-a895-599834d594e6",
+                "nutritionalInfo": { "allergens": [""], "displayString": "930 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "440b910f-7d3a-5082-978a-bdd566ebdc8f": {
+                "description": "Salsa-Ranch Dressing",
+                "imageUrl": "",
+                "price": 0,
+                "title": "Salsa-Ranch Dressing",
+                "uuid": "440b910f-7d3a-5082-978a-bdd566ebdc8f",
+                "nutritionalInfo": { "allergens": [""], "displayString": "190 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "691b7653-ab58-531c-8258-dcb0273070bc": {
+                "description": "Chocolate brownie cake with hot fudge and berry sauce, served à la mode.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/72ae2287-8ed9-45e4-988b-8d653a98ccb1.jpeg",
+                "price": 599,
+                "title": "Gooey Chocolate Brownie Cake",
+                "uuid": "691b7653-ab58-531c-8258-dcb0273070bc",
+                "nutritionalInfo": { "allergens": [""], "displayString": "950 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "f0242b3c-555a-51b2-adf5-cfab5d57e5d1": {
+                "description": "Four cinnamon and sugar croissant donut rings served with caramel and fudge.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/1b109c44-91e6-45d5-bf34-d000f3c83656.jpeg",
+                "price": 699,
+                "title": "Cinnamon Sugar Doh! Ring Shorty®",
+                "uuid": "f0242b3c-555a-51b2-adf5-cfab5d57e5d1",
+                "nutritionalInfo": { "allergens": [""], "displayString": "770 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "03d306e1-1bd8-5661-8978-44693bf38847": {
+                "description": "Big Pig Out Tavern",
+                "imageUrl": "",
+                "price": 1199,
+                "title": "Big Pig Out Tavern",
+                "uuid": "03d306e1-1bd8-5661-8978-44693bf38847",
+                "nutritionalInfo": { "allergens": [""], "displayString": "1120 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "4eefe463-0993-5426-bdde-69dab9804d5e": {
+                "description": "Hardwood-smoked bacon, egg, American cheese, lettuce, tomatoes and mayo.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/1b5fd639-b5d4-419e-88ca-4b39d9310ccc.jpeg",
+                "price": 1249,
+                "title": "Royal Red Robin Burger®",
+                "uuid": "4eefe463-0993-5426-bdde-69dab9804d5e",
+                "nutritionalInfo": { "allergens": [""], "displayString": "1110 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "8f2b152c-b0c5-57b8-b4fe-f2fc067c7d2d": {
+                "description": "Mayo",
+                "imageUrl": "",
+                "price": 0,
+                "title": "Mayo",
+                "uuid": "8f2b152c-b0c5-57b8-b4fe-f2fc067c7d2d",
+                "nutritionalInfo": { "allergens": [""], "displayString": "490 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "7779e4cc-c65b-5718-88ee-f49acdb40625": {
+                "description": "Teriyaki Sauce",
+                "imageUrl": "",
+                "price": 0,
+                "title": "Teriyaki Sauce",
+                "uuid": "7779e4cc-c65b-5718-88ee-f49acdb40625",
+                "nutritionalInfo": { "allergens": [""], "displayString": "100 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "6c155576-b341-5370-b1ca-12cacafcc07e": {
+                "description": "Two ancho-grilled chicken breasts, house-made salsa and salsa-ranch dressing. Served with mixed greens with Cheddar, tomatoes and tortilla strips.",
+                "imageUrl": "",
+                "price": 1129,
+                "title": "Ensenada Chicken™ Platter (Single Chicken Breast)",
+                "uuid": "6c155576-b341-5370-b1ca-12cacafcc07e",
+                "nutritionalInfo": { "allergens": [""], "displayString": "300 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "1a8f2cc0-d5a0-58ed-87f3-3ea380fc8acd": {
+                "description": "Tender and crunchy—all-white chicken breast covered in your choice of sauce: Nashville Hot with fresh pickles• Buzz with Bleu cheese crumbles and carrot sticks• Whiskey River® BBQ with crispy onion straws• Island Heat with grilled pineapple and fresh jalapeño• Banzai with grilled pineapple pieces—on a bed of Yukon Kettle chips.",
+                "imageUrl": "",
+                "price": 900,
+                "title": "Red's Bold Boneless Wings",
+                "uuid": "1a8f2cc0-d5a0-58ed-87f3-3ea380fc8acd",
+                "nutritionalInfo": {
+                    "allergens": [""],
+                    "displayString": "930 - 1010 Cal."
+                },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "92a182ce-f56a-52ed-b0fc-6546dbc9db26": {
+                "description": "Two classic patties topped with Red’s Secret Tavern Sauce™, American cheese, lettuce and tomato.\nAvailable for upgrade to the Big Tavern!",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/71b6e5e9-fc03-4677-991a-363d65be3553.jpeg",
+                "price": 699,
+                "title": "Red’s Tavern Double®",
+                "uuid": "92a182ce-f56a-52ed-b0fc-6546dbc9db26",
+                "nutritionalInfo": { "allergens": [""], "displayString": "590 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "ae6e5fe5-2a99-54c0-99f7-39f1944f9eb5": {
+                "description": "Wild raspberry and Sprite® topped with whipped cream.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/f3b7d4af-cde6-4a81-95da-2170ee4722df.jpeg",
+                "price": 379,
+                "title": "Raspberry Cream Soda",
+                "uuid": "ae6e5fe5-2a99-54c0-99f7-39f1944f9eb5",
+                "nutritionalInfo": { "allergens": [""], "displayString": "210 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "084ba3bd-9f19-5e47-aa6c-315e0fb08a52": {
+                "description": "Fried jalapeño coins, house-made salsa, Pepper-Jack, lettuce, tomatoes and chipotle aioli on a jalapeño-cornmeal kaiser roll.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/c98a8d11-e346-4648-9f23-c22f0af49abb.jpeg",
+                "price": 1239,
+                "title": "Burnin' Love Burger",
+                "uuid": "084ba3bd-9f19-5e47-aa6c-315e0fb08a52",
+                "nutritionalInfo": { "allergens": [""], "displayString": "910 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "80e70b1f-305b-5f8f-8a65-e7658ab87d40": {
+                "description": "Bruschetta salsa, roasted garlic aioli, Provolone, shredded romaine and red onions on a ciabatta bun.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/719750c5-9f58-4d6d-8478-d28fc0869f46.jpeg",
+                "price": 1199,
+                "title": "Bruschetta Chicken Burger",
+                "uuid": "80e70b1f-305b-5f8f-8a65-e7658ab87d40",
+                "nutritionalInfo": { "allergens": [""], "displayString": "680 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "74d6e785-57b3-5d08-91f5-377b3f2be1b3": {
+                "description": "Big Red’s Tavern",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/777dd5ff-6254-443b-9161-0699f8382b58.jpeg",
+                "price": 949,
+                "title": "Big Red’s Tavern",
+                "uuid": "74d6e785-57b3-5d08-91f5-377b3f2be1b3",
+                "nutritionalInfo": { "allergens": [""], "displayString": "740 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "4dd59d6e-2592-55ad-88ef-901bcec2f94d": {
+                "description": "6-oz. lightly blackened salmon, tomato-bruschetta salsa, red onions, roasted garlic aioli, and shredded romaine on a toasted ciabatta bun.",
+                "imageUrl": "",
+                "price": 1499,
+                "title": "Tuscan Salmon",
+                "uuid": "4dd59d6e-2592-55ad-88ef-901bcec2f94d",
+                "nutritionalInfo": { "allergens": [""], "displayString": "930 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "8c018bc8-0c3a-51b0-8041-212df81980cd": {
+                "description": "Hand-battered, golden-fried cod fillets with Steak Fries and Dill'd & Pickl'd Tartar Sauce.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/3f4325d0-aa1a-4d77-88aa-0583640ea040.jpeg",
+                "price": 1449,
+                "title": "Arctic Cod Fish & Chips",
+                "uuid": "8c018bc8-0c3a-51b0-8041-212df81980cd",
+                "nutritionalInfo": { "allergens": [""], "displayString": "1520 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "ca78b42a-91be-5a6f-bd32-abce91e8d399": {
+                "description": "",
+                "imageUrl": "",
+                "price": 299,
+                "title": "Side Zucchini Fries",
+                "uuid": "ca78b42a-91be-5a6f-bd32-abce91e8d399",
+                "nutritionalInfo": { "allergens": [""], "displayString": "260 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "c526048c-072d-5d52-af7b-4a11160a3633": {
+                "description": "Chocolate and OREO® cookies.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/794d5451-ce8b-4a05-b006-1cf38c26df9c.jpeg",
+                "price": 399,
+                "title": "OREO® Cookie Magic Milkshake",
+                "uuid": "c526048c-072d-5d52-af7b-4a11160a3633",
+                "nutritionalInfo": {
+                    "allergens": [""],
+                    "displayString": "580 - 1040 Cal."
+                },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "04d60972-72f1-5cde-8ce5-536646a1674a": {
+                "description": "Hardwood-smoked bacon, house-made guac, tomatoes and red onions in a lettuce bun. Served with a side salad.",
+                "imageUrl": "",
+                "price": 1249,
+                "title": "The Wedgie™ Burger",
+                "uuid": "04d60972-72f1-5cde-8ce5-536646a1674a",
+                "nutritionalInfo": { "allergens": [""], "displayString": "540 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "d0a4f673-58e0-516e-bf17-2a8aff45905f": {
+                "description": "Sliced chicken breast, Whiskey River® BBQ Sauce, Cheddar, lettuce, tortilla strips and ranch in a spinach tortilla.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/e8d3b1f2-ca3c-44e4-8f15-c824a869b569.jpeg",
+                "price": 1119,
+                "title": "Whiskey River® BBQ Chicken Wrap",
+                "uuid": "d0a4f673-58e0-516e-bf17-2a8aff45905f",
+                "nutritionalInfo": { "allergens": [""], "displayString": "1030 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "742af8d3-e329-5325-9462-ac0d4f38b627": {
+                "description": "Toasted mini marshmallows, graham cracker crumbs and chocolate syrup topped with whipped cream and fudge-dipped graham crackers.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/74464eb8-79c0-4e13-8ec7-322d4b96f422.jpeg",
+                "price": 599,
+                "title": "Silver Spoon S’mores Milkshake",
+                "uuid": "742af8d3-e329-5325-9462-ac0d4f38b627",
+                "nutritionalInfo": { "allergens": [""], "displayString": "1260 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "45998816-f047-5aba-93cb-181277581956": {
+                "description": "New England-style clam chowder.",
+                "imageUrl": "",
+                "price": 349,
+                "title": "Clamdigger’s Clam Chowder",
+                "uuid": "45998816-f047-5aba-93cb-181277581956",
+                "nutritionalInfo": {
+                    "allergens": [""],
+                    "displayString": "210 - 420 Cal."
+                },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "433ebe2d-f6b5-5500-aa07-7a1219e52769": {
+                "description": "Chicken tenders and fried shrimp. Served with Steak Fries, ranch and cocktail sauce.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/577db40b-e1de-42b6-8b50-34f5792e9671.jpeg",
+                "price": 1399,
+                "title": "Clucks & Shrimp",
+                "uuid": "433ebe2d-f6b5-5500-aa07-7a1219e52769",
+                "nutritionalInfo": { "allergens": [""], "displayString": "1330 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "2f574fa5-7537-5167-a897-944538adddf8": {
+                "description": "Sea salted tortilla chips, house-made salsa and guac, fresh jalapeños, corn and diced red onions.",
+                "imageUrl": "",
+                "price": 700,
+                "title": "Guacamole, Salsa & Chips",
+                "uuid": "2f574fa5-7537-5167-a897-944538adddf8",
+                "nutritionalInfo": { "allergens": [""], "displayString": "710 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "fd6c850f-b1d8-583b-b033-f04c52274b80": {
+                "description": "Black-peppered bacon, extra-sharp Cheddar, shredded romaine, dill pickle planks and Smoke & Pepper™ ketchup on a toasted brioche bun.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/7db8c21a-649d-40c0-aac4-2eadcda3011a.jpeg",
+                "price": 1299,
+                "title": "Smoke & Pepper™ Burger",
+                "uuid": "fd6c850f-b1d8-583b-b033-f04c52274b80",
+                "nutritionalInfo": { "allergens": [""], "displayString": "790 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "282fe906-e047-5ec5-8d9c-af6b038547c8": {
+                "description": "American cheese melted on Texas toast.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/7befe815-b3f5-4b0f-bdf5-e09587265307.jpeg",
+                "price": 499,
+                "title": "Grilled Cheesy",
+                "uuid": "282fe906-e047-5ec5-8d9c-af6b038547c8",
+                "nutritionalInfo": { "allergens": [""], "displayString": "380 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "771d1721-6643-5b94-b513-4c702b1799da": {
+                "description": "Cocktail Sauce",
+                "imageUrl": "",
+                "price": 0,
+                "title": "Cocktail Sauce",
+                "uuid": "771d1721-6643-5b94-b513-4c702b1799da",
+                "nutritionalInfo": { "allergens": [""], "displayString": "70 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "dbf8c331-7007-5688-8101-92240654909f": {
+                "description": "Coconut cream, pineapple juice and soft serve with whipped cream and a cherry.",
+                "imageUrl": "",
+                "price": 449,
+                "title": "Coconut Pineapple Smoothie",
+                "uuid": "dbf8c331-7007-5688-8101-92240654909f",
+                "nutritionalInfo": { "allergens": [""], "displayString": "520 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "85971084-236b-54eb-9982-d38afffddf36": {
+                "description": "Pickles, lettuce, tomatoes and red onions on the side.",
+                "imageUrl": "",
+                "price": 1049,
+                "title": "Simply Grilled Chicken Burger",
+                "uuid": "85971084-236b-54eb-9982-d38afffddf36",
+                "nutritionalInfo": { "allergens": [""], "displayString": "370 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "6a7c8f9d-497d-5edf-8a3f-977b17f69281": {
+                "description": "Raspberry and lime flavors, Sprite® and a lime.",
+                "imageUrl": "",
+                "price": 449,
+                "title": "Very Berry Raspberry Limeade",
+                "uuid": "6a7c8f9d-497d-5edf-8a3f-977b17f69281",
+                "nutritionalInfo": { "allergens": [""], "displayString": "180 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "cb5b4fb2-f8ca-5b85-b35a-d8cdb639442f": {
+                "description": "6 battered corn-dog bites.",
+                "imageUrl": "",
+                "price": 499,
+                "title": "Lil' Appetites Corn Doggies",
+                "uuid": "cb5b4fb2-f8ca-5b85-b35a-d8cdb639442f",
+                "nutritionalInfo": { "allergens": [""], "displayString": "350 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "44945751-4133-5a87-8b55-7e2b06f15870": {
+                "description": "Five of our chocolate chip cookies that feature a soft, fudge-filled center that brings a classic treat to new levels of delicious.",
+                "imageUrl": "",
+                "price": 699,
+                "title": "Fudge-Filled Chocolate Chip Cookies",
+                "uuid": "44945751-4133-5a87-8b55-7e2b06f15870",
+                "nutritionalInfo": { "allergens": [""], "displayString": "1650 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "a892f178-b643-539c-9cf3-c0f1b3b232ff": {
+                "description": "Whiskey River® BBQ Sauce",
+                "imageUrl": "",
+                "price": 0,
+                "title": "Whiskey River® BBQ Sauce",
+                "uuid": "a892f178-b643-539c-9cf3-c0f1b3b232ff",
+                "nutritionalInfo": { "allergens": [""], "displayString": "130 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "dfad9c30-0676-554b-b6f9-32a050a1043f": {
+                "description": "A blend of fire-grilled beef, beans, spices and hearty peppers with Cheddar, red onions and tortilla strips.",
+                "imageUrl": "",
+                "price": 379,
+                "title": "Red’s Chili Chili™",
+                "uuid": "dfad9c30-0676-554b-b6f9-32a050a1043f",
+                "nutritionalInfo": {
+                    "allergens": [""],
+                    "displayString": "220 - 400 Cal."
+                },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "04e776a4-aa85-54ff-a184-5afc524c699c": {
+                "description": "Red’s Chili Chili, Cheddar, chipotle aioli and red onions. Served open-face.",
+                "imageUrl": "",
+                "price": 1239,
+                "title": "Chili Chili™ Cheeseburger",
+                "uuid": "04e776a4-aa85-54ff-a184-5afc524c699c",
+                "nutritionalInfo": { "allergens": [""], "displayString": "860 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "dbb15be7-8861-56a0-84bb-f99fa71c4b4a": {
+                "description": "Cheese Pizza.",
+                "imageUrl": "",
+                "price": 499,
+                "title": "M.V.P.IZZA - Cheese",
+                "uuid": "dbb15be7-8861-56a0-84bb-f99fa71c4b4a",
+                "nutritionalInfo": { "allergens": [""], "displayString": "450 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "2a6b7df2-f04e-5b1c-b726-d8760e6d5549": {
+                "description": "Golden-fried dill slices served with Campfire Mayo.",
+                "imageUrl": "",
+                "price": 500,
+                "title": "Fried Pickle Nickels",
+                "uuid": "2a6b7df2-f04e-5b1c-b726-d8760e6d5549",
+                "nutritionalInfo": { "allergens": [""], "displayString": "740 Cal." },
+                "suspendReason": "",
+                "suspendUntil": 8640000000,
+                "classifications": []
+            },
+            "f5a8260b-8f93-5697-a730-953a9ec7b4e0": {
+                "description": "Grilled chicken breast, Cheddar, tomatoes, croutons and cucumbers on mixed greens. Served with choice of dressing.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/9cb18a9a-6cb9-4e36-a16e-22155fac55c6.jpeg",
+                "price": 979,
+                "title": "Simply Grilled Chicken Salad",
+                "uuid": "f5a8260b-8f93-5697-a730-953a9ec7b4e0",
+                "nutritionalInfo": { "allergens": [""], "displayString": "280 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "b7cd5fce-26d0-579f-ae6e-5120b4894435": {
+                "description": "2 breaded chicken tenders.",
+                "imageUrl": "",
+                "price": 499,
+                "title": "Lil' Appetites Cluck-A-Doodles",
+                "uuid": "b7cd5fce-26d0-579f-ae6e-5120b4894435",
+                "nutritionalInfo": { "allergens": [""], "displayString": "360 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "da08cb01-c2cb-529d-8fff-858955529755": {
+                "description": "\"A delicious, fire-grilled, plant-based patty. Red’s pickle relish, red onions, pickles, lettuce, tomatoes, mayo and your choice of cheese. Learn more at RedRobin.com/Impossible\"",
+                "imageUrl": "",
+                "price": 1379,
+                "title": "The Impossible™ Cheeseburger",
+                "uuid": "da08cb01-c2cb-529d-8fff-858955529755",
+                "nutritionalInfo": {
+                    "allergens": [""],
+                    "displayString": "720 - 780 Cal."
+                },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "f9473cbf-2976-5e2c-9159-1f8014f9485a": {
+                "description": "Teriyaki, grilled pineapple, Swiss, lettuce, tomatoes and mayo.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/762d095c-8e04-4d78-812b-d41675543179.jpeg",
+                "price": 1139,
+                "title": "Teriyaki Chicken Burger",
+                "uuid": "f9473cbf-2976-5e2c-9159-1f8014f9485a",
+                "nutritionalInfo": { "allergens": [""], "displayString": "790 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "319a794b-ccd7-54b6-b87c-38fd8c62549e": {
+                "description": "Seasoned turkey patty, lettuce, tomatoes and chipotle aioli on a multigrain bun.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/b186edb7-0751-476b-98c9-eec7e0a51b8d.jpeg",
+                "price": 1129,
+                "title": "Grilled Turkey Burger",
+                "uuid": "319a794b-ccd7-54b6-b87c-38fd8c62549e",
+                "nutritionalInfo": { "allergens": [""], "displayString": "620 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "f5d267aa-108a-56c3-919b-03b17887dd50": {
+                "description": "Big Taco Tavern",
+                "imageUrl": "",
+                "price": 1049,
+                "title": "Big Taco Tavern",
+                "uuid": "f5d267aa-108a-56c3-919b-03b17887dd50",
+                "nutritionalInfo": { "allergens": [""], "displayString": "800 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "12cff3e1-ae58-50d2-a3ed-9156306b0411": {
+                "description": "Bleu cheese and bacon crumbles, crispy onion straws, diced tomatoes and ranch.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/b2cc7eaa-3669-4f7a-96a8-7ae08df3ed1f.jpeg",
+                "price": 500,
+                "title": "Classic Wedge Salad",
+                "uuid": "12cff3e1-ae58-50d2-a3ed-9156306b0411",
+                "nutritionalInfo": { "allergens": [""], "displayString": "420 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "9828e0b9-e8c5-55f7-9730-7e5bbb313960": {
+                "description": "\"Two classic patties topped with fresh, house-made guac and salsa, crunchy tortilla strips, Pepper-Jack and lettuce. You’ll wanna taco ’bout how tasty it is. Available for upgrade to the Big Tavern!\"Available for upgrade to the Big Tavern!",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/8bb7310d-afe5-4a80-9ac1-be23684632a6.jpeg",
+                "price": 799,
+                "title": "Taco Tavern Double™",
+                "uuid": "9828e0b9-e8c5-55f7-9730-7e5bbb313960",
+                "nutritionalInfo": { "allergens": [""], "displayString": "620 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "775efd07-b393-50b4-88fa-ad525dba96d9": {
+                "description": "Campfire Sauce",
+                "imageUrl": "",
+                "price": 0,
+                "title": "Campfire SauceMayo",
+                "uuid": "775efd07-b393-50b4-88fa-ad525dba96d9",
+                "nutritionalInfo": { "allergens": [""], "displayString": "320 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "b76c64d4-37e1-54de-9322-04996be2dae5": {
+                "description": "A Cheddar-and-Parmesan crisp, Provolone, Swiss, jalapeño relish, candied bacon, avocado, citrus-marinated tomatoes and red onions with shredded romaine on a toasted brioche bun.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/3ba4eb4e-1827-4e2d-b164-99362f8db381.jpeg",
+                "price": 1399,
+                "title": "The Madlove Burger",
+                "uuid": "b76c64d4-37e1-54de-9322-04996be2dae5",
+                "nutritionalInfo": { "allergens": [""], "displayString": "1050 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "e0fa9704-98ef-5ea1-b6c5-5f3480b595bb": {
+                "description": "Strawberries, bananas, grenadine, coconut cream and pineapple juice.",
+                "imageUrl": "",
+                "price": 449,
+                "title": "Hawaiian Heart Throb® Smoothie",
+                "uuid": "e0fa9704-98ef-5ea1-b6c5-5f3480b595bb",
+                "nutritionalInfo": { "allergens": [""], "displayString": "410 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "574dcecc-7952-51e4-8da9-539001997d39": {
+                "description": "Pasta, creamy cheese sauce, toasted crouton crumbs and Parmesan served with a side salad or Caesar salad.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/63e325f7-b624-4712-8dd0-aa46750e1fe2.jpeg",
+                "price": 849,
+                "title": "Pub Mac 'N' Cheese",
+                "uuid": "574dcecc-7952-51e4-8da9-539001997d39",
+                "nutritionalInfo": {
+                    "allergens": [""],
+                    "displayString": "980 - 1110 Cal."
+                },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "2a730e16-da26-5b2a-a6b3-e7779fe2d134": {
+                "description": "Red’s pickle relish, red onions, pickles, lettuce, tomatoes, mayo and your choice of cheese.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/2f69dd99-9155-48b7-82fc-7da7fde69b93.jpeg",
+                "price": 1129,
+                "title": "Red Robin Gourmet Cheeseburger",
+                "uuid": "2a730e16-da26-5b2a-a6b3-e7779fe2d134",
+                "nutritionalInfo": {
+                    "allergens": [""],
+                    "displayString": "770 - 840 Cal."
+                },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "485390c3-f23c-5823-908a-839e2be3a6af": {
+                "description": "Tarter Sauce",
+                "imageUrl": "",
+                "price": 0,
+                "title": "Tarter Sauce",
+                "uuid": "485390c3-f23c-5823-908a-839e2be3a6af",
+                "nutritionalInfo": { "allergens": [""], "displayString": "260 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "38d84afc-e425-58e3-9f7c-205b89d04c24": {
+                "description": "A duo of melted extra-sharp Cheddar and Provolone cheeses, Bistro Sauce, dill pickle planks, shredded romaine and salt-and-peppered tomatoes on a toasted brioche bun.",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/2a3e4729-2b69-4827-b487-add0a1ee39e9.jpeg",
+                "price": 1249,
+                "title": "The Master Cheese Burger",
+                "uuid": "38d84afc-e425-58e3-9f7c-205b89d04c24",
+                "nutritionalInfo": { "allergens": [""], "displayString": "790 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "a535ead6-89de-50ee-8d80-6c74cf7f79b1": {
+                "description": "13 crispy onion rings with Campfire Mayo and ranch.",
+                "imageUrl": "",
+                "price": 900,
+                "title": "Towering Onion Rings®",
+                "uuid": "a535ead6-89de-50ee-8d80-6c74cf7f79b1",
+                "nutritionalInfo": { "allergens": [""], "displayString": "1290 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "a30111fc-1f36-5aeb-be47-eb3cf5dd6177": {
+                "description": "\"Two classic patties topped with Whiskey River® BBQ Sauce, Pepper-Jack, pickles, red onions, lettuce and mayo. Available for upgrade to the Big Tavern!\"Available for upgrade to the Big Tavern!",
+                "imageUrl": "https://d1ralsognjng37.cloudfront.net/be0be55d-2a99-4aee-8ee8-3e09b4a81455.jpeg",
+                "price": 799,
+                "title": "Smoky Jack Tavern Double",
+                "uuid": "a30111fc-1f36-5aeb-be47-eb3cf5dd6177",
+                "nutritionalInfo": { "allergens": [""], "displayString": "710 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "240fa9aa-d547-5978-8d3b-f4301c64bd45": {
+                "description": "Crispy chicken tenders tossed in our spicy Buzzard sauce and Steak Fries with Bleu cheese.",
+                "imageUrl": "",
+                "price": 1189,
+                "title": "Buffalo Style Clucks & Fries®",
+                "uuid": "240fa9aa-d547-5978-8d3b-f4301c64bd45",
+                "nutritionalInfo": { "allergens": [""], "displayString": "1630 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            },
+            "b96fac29-8090-54b5-a952-4a8128e2234f": {
+                "description": "American cheese, candied bacon, crispy onion straws, house-made jalapeño ranch, barbecue ketchup, tomatoes and shredded romaine.",
+                "imageUrl": "",
+                "price": 1259,
+                "title": "New! El Ranchero - Limited Time Only",
+                "uuid": "b96fac29-8090-54b5-a952-4a8128e2234f",
+                "nutritionalInfo": { "allergens": [""], "displayString": "1110 Cal." },
+                "suspendReason": null,
+                "suspendUntil": 0,
+                "classifications": []
+            }
+        }
+    }
+}
