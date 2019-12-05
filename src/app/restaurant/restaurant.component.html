@@ -1,0 +1,41 @@
+<div>
+<h2 style="text-align: center;">{{!!restaurant ? restaurant.title : ""}}</h2>
+<div>
+
+<div id="restro-menu-wrpr">
+    <h4>Menu:</h4>
+    <ul>
+        <li *ngFor="let key of Objectkeys(menu)">
+            <ul>
+                <li *ngFor="let k of Objectkeys(menu[key])">
+                    {{!!menu[key][k] ? menu[key][k].title : ""}}
+                    <div>{{!!menu[key][k] && !!menu[key][k].description && !!menu[key][k].description.trim() ? ("      - " + menu[key][k].description) : ""}}</div>
+                </li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+
+<div id="restro-rev-wrpr">
+    <h4>Reviews:</h4>
+    <div>
+        <ul>
+            <li *ngFor="let rev of reviews; let i = index">
+                <div>{{rev.reviewerName + " :"}}
+                    <span *ngIf="getFromStorage('login_user') === rev.reviewer || getFromStorage('login_role') === 'admin'">
+                        (<a (click)="editReview(i, rev.reviewerName, rev.reviewer)" href="javascript:void(0);">Edit</a> | 
+                        <a (click)="deleteReview(i, rev.reviewerName)" href="javascript:void(0);">Delete</a>)
+                    </span>
+                </div>
+                <div>{{rev.review}}</div>
+            </li>
+        </ul>
+    </div>
+    <div>
+        <input style="width: 100%;" [(ngModel)]="userReview">
+        <div>
+            <button (click)="submitReview()">Send</button>
+        </div>
+    </div>
+</div>

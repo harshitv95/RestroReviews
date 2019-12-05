@@ -1,0 +1,26 @@
+<div>
+    <input class="search-box input" placeholder="Start Typing Restaurant Names..." [(ngModel)]="searchString">
+    <button style="margin-left: 10px;" (click)="search()">Search >></button>
+</div>
+<div class="restro-results-wrpr">
+    <table class="restro-results">
+        <thead>
+            <tr>
+                <th>Restaurant Name</th>
+                <th>Ratings</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let restro of restaurants">
+                <td>
+                    <a [routerLink]='"restaurant/" + restro.uuid'>
+                        {{restro.title}}
+                    </a>
+                </td>
+                <td style="text-align: right;">
+                    {{restro.feedback ? restro.feedback.rating : '-'}}
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
